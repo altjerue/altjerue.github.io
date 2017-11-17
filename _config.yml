@@ -1,4 +1,4 @@
 name: Jesus Rueda-Becerril
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 permalink: /blog/:year/:month/:day/:title
