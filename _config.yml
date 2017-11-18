@@ -1,4 +1,6 @@
 name: Jesus Rueda-Becerril
+title: Jesus M. Rueda-Becerril personal webpage
+description: This is my personal webpage
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: jekyll-theme-cayman
 permalink: /blog/:year/:month/:day/:title
