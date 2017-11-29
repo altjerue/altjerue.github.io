@@ -1,0 +1,66 @@
+---
+layout: post
+title: Nice plots in Mathematica
+date: 2016-12-05 17:34:50.000000000 -06:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories: []
+tags: [plots, Mathematica]
+meta:
+  _rest_api_published: '1'
+  _rest_api_client_id: "-1"
+  _publicize_job_id: '29653335910'
+author:
+  login: Jesus MRB
+  email: jesus.mrb103@gmail.com
+  display_name: jerue
+  first_name: Jesus
+  last_name: Rueda-Becerril
+---
+<p>
+  While writing the thesis I came to the point of testing/checking some and came
+  to the idea of plotting that stuff. When it comes to creating plots in
+  Mathematica it is quite simple. But making them look good for a thesis is not
+  that simple.
+</p>
+<pre>
+  <code class="mathematica">
+    LogLogPlot[{Exp[x], Log[x], x, x^2}, {x, 1*^-3, 1*^3},
+    PlotRange -> {\{1*^-3, 1*^3\}, \{1*^-3, 1*^3\}},
+      PlotStyle -> {
+        Directive[Thickness[0.015], GrayLevel[0.55]],
+        Directive[Magenta, Thick, Dashing[{}]],
+        Directive[Darker[Green], Dashing[{}]],
+        Directive[Red, Dashing[{Medium, Small}]]
+      },
+      PlotLegends -> Placed[LineLegend["Expressions",
+      LabelStyle -> {12, FontFamily -> "Times"},
+      LegendMarkerSize -> {\{25, 10}\}], {Scaled[{0.7, 0.07}], {0, 0}}],
+      PlotLabel -> None,
+      GridLines -> Automatic,
+      LabelStyle -> {FontFamily -> "Times", 20, GrayLevel[0]},
+      Frame -> True,
+      FrameStyle -> Thickness[0.0042],
+      FrameLabel -> {\{HoldForm[F[x]], None\}, {HoldForm[x], None}},
+      FrameTicks -> {\{Join[Table[{10^k,
+        Superscript[10, k], {0.03, 0}}, {k, -4, 4}],
+        Flatten[Table[{l*10^k, , {0.02, 0}}, {k, -4, 4}, {l, 2, 9}], 1]],
+        Join[Table[{10^k, , {0.03, 0}}, {k, -4, 4}],
+        Flatten[Table[{l*10^k, , {0.02, 0}}, {k, -4, 4}, {l, 2, 9}], 1]]
+      \},{
+        Join[Table[{10^k, Superscript[10, k], {0.03, 0}}, {k, -4, 4}],
+        Flatten[Table[{l*10^k, , {0.02, 0}}, {k, -4, 4}, {l, 2, 9}],1]],
+        Join[Table[{10^k, , {0.03, 0}}, {k, -4, 4}],
+        Flatten[Table[{l*10^k, , {0.02, 0}}, {k, -4, 4}, {l, 2, 9}], 1]]
+      }
+    },
+    FrameTicksStyle -> Directive[16, Black, FontFamily -> "Helvetica"],
+    Background -> None,
+    AspectRatio -> Full]
+  </code>
+</pre>
+<p>This produces:</p>
+<p><img class=" size-full wp-image-39 aligncenter" src="{{ site.baseurl }}/assets/nice-plots-mathematica_fig1.png" alt="nice-plots-mathematica_fig1" width="360" height="432" /></p>
