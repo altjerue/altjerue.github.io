@@ -4,10 +4,9 @@ layout: default
 title: Something about...
 ---
 
-## Some words about myself
-What I think about this is
+## Some words about myself and this webpage
 
-## My interests
+What I think about this is
 
 ## In the mortar for souces
 
