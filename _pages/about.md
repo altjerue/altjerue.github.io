@@ -1,5 +1,7 @@
 ---
+permalink: /about/
 layout: default
+title: Something about...
 ---
 
 ## Some words about myself

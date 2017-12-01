@@ -1,5 +1,7 @@
 ---
+permalink: /cv/
 layout: default
+title: Curriculum Vitae
 ---
 
 ### PDF version [English](https://github.com/altjerue/jmrb_cv/raw/master/JesusMRB_eng.pdf) [Español]()
@@ -7,4 +9,3 @@ layout: default
 # Personal information
 
 **Name:** Jesus Misrayim Rueda-Becerril
-
