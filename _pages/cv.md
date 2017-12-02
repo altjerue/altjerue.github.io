@@ -22,7 +22,7 @@ Ciudad Universitaria
 
 # Profile
 
-Doctor in Astrophysics with 7 years of expertise in research area. Mostly on the development of numerical/computational tools for physical and astrophysical simulations. I have a high expertise in programming, data analysis and problem solving.
+Doctor in Astrophysics with 7 years of expertise in research. Mostly on the development of numerical/computational tools for physical and astrophysical simulations. I have a high expertise in programming, data analysis and problem solving.
 
 I am creative, innovative, analyst and hard worker. During my PhD studies I developed high programming skills in several languages such as Python, R, FORTRAN 95, C++, Shell, etc., and version control tools like Git using platforms such as GitHub and Bitbucket. I worked on developing sophisticated numerical tools which were implemented to simulate blazars flares (prompt high energy radiation from relativistic jets of active galactic nuclei). This has shown my fast learning skill of new programming languages and develop efficient codes to solve the problem posed.
 
