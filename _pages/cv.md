@@ -7,15 +7,15 @@ title: Curriculum Vitae
 
 # Personal information
 
-**Name:** Jesús Misráyim Rueda-Becerril
-**Current position:** Postdoctoral Research Associate
+**Name:** Jesús Misráyim Rueda-Becerril  
+**Current position:** Postdoctoral Research Associate  
 **e-mail:** <jesus.mrb103@gmail.com>
 
 ### Address
 
-Instituto de Fisica y Matematicas
-Universidad Michoacana de San Nicolas de Hidalgo
-Edificio C-3A, Ciudad Universitaria
+Instituto de Fisica y Matematicas  
+Universidad Michoacana de San Nicolas de Hidalgo  
+Edificio C-3A, Ciudad Universitaria  
 58040 Morelia, Michoacan (MEXICO)
 
 
@@ -36,7 +36,7 @@ I am coauthor of three articles in peer reviewed scientific journals and author 
 
 **J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. The influence of the magnetic field on the spectral properties of blazars. *Monthly Notices of the Royal Astronomical Society*, 438:1856–1869, Feb. 2014b. doi: [10.1093/mnras/stt2335](https://doi.org/10.1093/mnras/stt2335).
 
-F. S. Guzmán and **J. M. Rueda-Becerril**. Spherical boson stars as black hole mimickers. *Physical Review D*, 80(8):084023, October 2009. doi: [10.1103/PhysRevD.80.084023](https://doi.org/10.1103/physrevd.80.084023).
+F. S. Guzmán and **J. M. Rueda-Becerril**. Spherical boson stars as black hole mimickers. *Physical Review D*, 80(8):084023, October 2009. doi: [10.1103/PhysRevD.80.084023](https://doi.org/10.1103/physrevd.80.084023).
 
 
 # Interests
