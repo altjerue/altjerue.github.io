@@ -7,16 +7,15 @@ title: Curriculum Vitae
 
 # Personal information
 
-**Name:** Jesús Misráyim Rueda-Becerril  
-**Current position:** Postdoctoral Research Associate  
+**Name:** Jesús Misráyim Rueda-Becerril
+**Current position:** Postdoctoral Research Associate
 **e-mail:** <jesus.mrb103@gmail.com>
 
 ### Address
 
-Instituto de Física y Matemáticas  
-Edificio C-3A - Despacho 10  
-Universidad Michoacana de San Nicolas de Hidalgo  
-Ciudad Universitaria  
+Instituto de Fisica y Matematicas
+Universidad Michoacana de San Nicolas de Hidalgo
+Edificio C-3A, Ciudad Universitaria
 58040 Morelia, Michoacan (MEXICO)
 
 
@@ -24,7 +23,7 @@ Ciudad Universitaria
 
 Doctor in Astrophysics with 7 years of expertise in research. Mostly on the development of numerical/computational tools for physical and astrophysical simulations. I have a high expertise in programming, data analysis and problem solving.
 
-I am creative, innovative, analyst and hard worker. During my PhD studies I developed high programming skills in several languages such as Python, R, FORTRAN 95, C++, Shell, etc., and version control tools like Git using platforms such as GitHub and Bitbucket. I worked on developing sophisticated numerical tools which were implemented to simulate blazars flares (prompt high energy radiation from relativistic jets of active galactic nuclei). This has shown my fast learning skill of new programming languages and develop efficient codes to solve the problem posed.
+I am creative, innovative, analyst and hard worker. During my PhD studies I developed high programming skills in several languages such as `Python`, `R`, `Fortran`, `C++`, `Shell`, etc., and version control tools like `Git` using platforms such as `GitHub` and `Bitbucket`. I worked on developing sophisticated numerical tools which were implemented to simulate blazars flares (prompt high energy radiation from relativistic jets of active galactic nuclei). This has shown my fast learning skill of new programming languages and develop efficient codes to solve the problem posed.
 
 I am coauthor of three articles in peer reviewed scientific journals and author of a doctoral thesis, qualified as innovative, in which several numerical and programming issues were overcome, reason why it received the distinction of excellent. In addition, I have good English skills which makes me capable of discussing and interact fluently in both Spanish and English.
 
@@ -33,7 +32,7 @@ I am coauthor of three articles in peer reviewed scientific journals and author 
 
 # Publications
 
-**J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. On the influence of a hy- brid thermal–non-thermal distribution in the internal shocks model for blazars. *Monthly Notices of the Royal Astronomical Society*, 468:1169–1182, June 2017. doi: [10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476).
+**J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. On the influence of a hybrid thermal–-non-thermal distribution in the internal shocks model for blazars. *Monthly Notices of the Royal Astronomical Society*, 468:1169–1182, June 2017. doi: [10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476).
 
 **J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. The influence of the magnetic field on the spectral properties of blazars. *Monthly Notices of the Royal Astronomical Society*, 438:1856–1869, Feb. 2014b. doi: [10.1093/mnras/stt2335](https://doi.org/10.1093/mnras/stt2335).
 
@@ -75,21 +74,21 @@ F. S. Guzmán and **J. M. Rueda-Becerril**. Spherical boson stars as black hole
 # Computer skills
 
 ### Proficient
-Unix [Linux, macOS], FORTRAN [77, 90, 95, 2003], Python [2, 3], Shell, Mathematica, LaTeX, gnuplot, grace, OpenMP, GeoGebra, Emacs, HDF5, Makefile, Git, GitHub, R, RStudio, Markdown
+Unix (Linux, macOS), Fortran (fixed and free format), OpenMP, Python (2, 3), R, RStudio, Shell, Makefile, HDF5, Git, Mathematica, LaTeX, Atom (text editor), Emacs, gnuplot, grace, GitHub
 
 ### Intermediate
-C, C++, Julia, Elisp, MPI, SageMath, yEd, OpenOffice, Microsoft Office [Word, Excel, PowerPoint], iWork [Pages, Numbers, Keynote], DOT, TikZ/PGF, Atom
+C, C++, Julia, Elisp, MPI, SageMath, yEd, OpenOffice, Microsoft Office (Word, Excel, PowerPoint), iWork (Pages, Numbers, Keynote), DOT, TikZ/PGF, GeoGebra
 
 ### Basic
-HTML, XML, Matlab, Maple, Java, Swift, Perl, SQL, Java, Jekyll, Json
+HTML, Matlab, Maple, Java, Swift, Perl, SQL, Java
 
 
 # Profiles and social networks
 
-[ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)  
-[LinkedIn](https://www.linkedin.com/in/jeruebe)  
-[Telegram](http://t.me/jerube)  
-Skype: jesus_mrb  
+[ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
+[LinkedIn](https://www.linkedin.com/in/jeruebe)
+[Telegram](http://t.me/jerube)
+Skype: jesus_mrb
 Twitter: jerue103
 
 # My CV in PDF format
