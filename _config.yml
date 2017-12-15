@@ -10,6 +10,12 @@ name: Jesus M. Rueda-Becerril
 title: Jesus M Rueda-Becerril
 description: My personal webpage
 
+author:
+  email: jesus.mrb103@gmail.com
+  display_name: jeruebe
+  first_name: Jesus
+  last_name: Rueda-Becerril
+
 # Plugins
 plugins:
   - jekyll-feed
