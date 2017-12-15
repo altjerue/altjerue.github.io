@@ -7,15 +7,15 @@ title: Curriculum Vitae
 
 # Personal information
 
-**Name:** Jesús Misráyim Rueda-Becerril  
-**Current position:** Postdoctoral Research Associate  
-**e-mail:** <jesus.mrb103@gmail.com>
+**Name:** Jesús Misráyim Rueda-Becerril
+**Current position:** Postdoctoral Research Associate
+**e-mail:** [jesus@ifm.umich.mx](jesus@ifm.umich.mx)
 
 ### Address
 
-Instituto de Fisica y Matematicas  
-Universidad Michoacana de San Nicolas de Hidalgo  
-Edificio C-3A, Ciudad Universitaria  
+Instituto de Fisica y Matematicas
+Universidad Michoacana de San Nicolas de Hidalgo
+Edificio C-3A, Ciudad Universitaria
 58040 Morelia, Michoacan (MEXICO)
 
 
@@ -32,43 +32,43 @@ I am coauthor of three articles in peer reviewed scientific journals and author 
 
 # Publications
 
-**J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. On the influence of a hybrid thermal–-non-thermal distribution in the internal shocks model for blazars. *Monthly Notices of the Royal Astronomical Society*, 468:1169–1182, June 2017. doi: [10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476).
+**J. M. Rueda-Becerril**, P. Mimica & M. A. Aloy. On the influence of a hybrid thermal–-non-thermal distribution in the internal shocks model for blazars. *Monthly Notices of the Royal Astronomical Society*, 468:1169–1182, June 2017. doi: [10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476).
 
-**J. M. Rueda-Becerril**, P. Mimica, & M. A. Aloy. The influence of the magnetic field on the spectral properties of blazars. *Monthly Notices of the Royal Astronomical Society*, 438:1856–1869, Feb. 2014b. doi: [10.1093/mnras/stt2335](https://doi.org/10.1093/mnras/stt2335).
+**J. M. Rueda-Becerril**, P. Mimica & M. A. Aloy. The influence of the magnetic field on the spectral properties of blazars. *Monthly Notices of the Royal Astronomical Society*, 438:1856–1869, Feb. 2014b. doi: [10.1093/mnras/stt2335](https://doi.org/10.1093/mnras/stt2335).
 
-F. S. Guzmán and **J. M. Rueda-Becerril**. Spherical boson stars as black hole mimickers. *Physical Review D*, 80(8):084023, October 2009. doi: [10.1103/PhysRevD.80.084023](https://doi.org/10.1103/physrevd.80.084023).
+F. S. Guzmán & **J. M. Rueda-Becerril**. Spherical boson stars as black hole mimickers. *Physical Review D*, 80(8):084023, October 2009. doi: [10.1103/PhysRevD.80.084023](https://doi.org/10.1103/physrevd.80.084023).
 
 
 # Interests
 
 ### High energy physics around black holes
 
-* Theory and observation of high energy radiation in different scenarios where black holes are involved.
-  * Radiation transport.
-  * Radiation source and source region. - Particles acceleration processes.
-* Active galactic nuclei.
-  * Blazars.
-    * Acceleration processes in the emission region.
-    * Location of the emission region.
-    * The spectral effects due to different constituents of the material in the emission region.
-  * Radio galaxies.
-  * Quasars.
-  * Tidal disruption events.
-* Microquasars.
-* Gamma-ray bursts.
+- Theory and observation of high energy radiation in different scenarios where black holes are involved.
+  - Radiation transport.
+  - Radiation source and source region. - Particles acceleration processes.
+- Active galactic nuclei.
+  - Blazars.
+    - Acceleration processes in the emission region.
+    - Location of the emission region.
+    - The spectral effects due to different constituents of the material in the emission region.
+  - Radio galaxies.
+  - Quasars.
+  - Tidal disruption events.
+- Microquasars.
+- Gamma-ray bursts.
 
 ### Numerical Astrophysics
-* Numerical solutions to the radiation transport equation with astrophysical applications.
-* Numerical treatment of the microphysics involved in the emission of high energy radiation.
-* Numerical hydrodynamics and magnetohydrodynamics.
-* Performance, stability, convergence and accuracy of numerical codes.
+- Numerical solutions to the radiation transport equation with astrophysical applications.
+- Numerical treatment of the microphysics involved in the emission of high energy radiation.
+- Numerical hydrodynamics and magnetohydrodynamics.
+- Performance, stability, convergence and accuracy of numerical codes.
 
 ### Computer Sciences
-* Decision-making optimization.
-* Machine learning (supervised and unsupervised).
-* Neuronal networks.
-* Text mining.
-* Network analysis.
+- Decision-making optimization.
+- Machine learning (supervised and unsupervised).
+- Neuronal networks.
+- Text mining.
+- Network analysis.
 
 
 # Computer skills
@@ -92,5 +92,5 @@ Skype: jesus_mrb
 Twitter: jerue103
 
 # My CV in PDF format
- * [English](https://github.com/altjerue/jmrb_cv/raw/master/JesusMRB_eng.pdf)
- * [Español](/404.html)
+- [English](https://github.com/altjerue/jmrb_cv/raw/master/JesusMRB_eng.pdf)
+- [Español](/404.html)

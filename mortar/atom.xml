@@ -1,0 +1,27 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title type="text" xml:lang="en">The Astroclimber blog</title>
+    <link  type="application/atom+xml" href="http://altjerue.github.io/mortar/atom.xml" rel="self"/>
+    <link type="text" href="http://altjerue.github.io/mortar" rel="alternate"/>
+    <updated>{{ site.time | date_to_xmlschema }}</updated>
+    <id>http://altjerue.github.io/mortar</id>
+    <author>
+        <name>Jesus M. Rueda-Becerril</name>
+        <email>jesus.mrb103@gmail.com</email>
+    </author>
+    <rights>Copyright (c) 2016-2017 Jesus M. Rueda-Becerril</rights>
+    {% raw %}
+    {% for post in site.posts limit:20 %}
+    <entry>
+        <title>{{ post.title }}</title>
+        <link href="http://altjerue.github.io{{ post.url }}"/>
+        <updated>{{ post.date | date_to_xmlschema }}</updated>
+        <id>http://altjerue.github.io{{ post.id }}</id>
+        <content type="html">{{ post.content | xml_escape }}</content>
+    </entry>
+    {% endfor %}
+    {% endraw %}
+</feed>

@@ -14,14 +14,26 @@ description: My personal webpage
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-paginate-multiple
   - redcarpet
   - jekyll-gist
   - pygments.rb
 
 # Permalink and paginate
-permalink: '/blog/:year/:title/'
-# permalink: /blog/:year/:month/:day/:title
-paginate: 5
-paginate_path: '/blog/page:num/'
+permalink: none
+paginate_multiple:
+  - paginate: 5
+    paginate_path: '/mortar/page:num/'
+  - paginate: 5
+    paginate_path: '/mula/page:num/'
 include: ['_pages']
-relative_permalinks: false
+# relative_permalinks: false
+
+# atom:
+#   buildCommand:
+#     - bundle
+#     - exec
+#     - jekyll
+#     - serve
+#     - --incremental
+#     - --draft
