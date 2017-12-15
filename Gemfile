@@ -8,3 +8,4 @@ gem 'jekyll-feed'
 gem 'hpricot'
 gem 'open_uri_redirections'
 gem 'jekyll-paginate-multiple'
+gem "minima"

@@ -1,22 +1,19 @@
 ---
 layout: blog_index
-title: La mula parda
-category: mula
+title: The Astroclimber blog
+category: mortar
 ---
 
-<h1 class="page-title" style="display:inline-block;">
-    {{ page.title }}
-</h1>
-<br/>
+<h1 class="page-title" style="display:inline-block;">{{ page.title }}</h1>
+<!-- <br/>
 <div style="display:inline-block;margin-left:.5em;">
-    Browse by <a href="/mula/tag/">Tag</a>
-</div>
+    Browse by <a href="/mortar/tag/">Tag</a>
+</div> -->
 
 <br/><br/>
 
 <div class="posts">
-    {% for post in paginator.posts %}
-    {% if post.categories contains 'mula' %}
+    {% for post in site.categories[page.category] %}
     <div class="post">
         <h1 class="post-title">
             <a href="{{ post.url }}">{{ post.title }}</a>
@@ -24,12 +21,12 @@ category: mula
 
         <span class="post-date">
             {{ post.date | date_to_string }}
-            {% if post.tags != empty %}
+            <!-- {% if post.tags != empty %}
             |
             {% for tag in post.tags %}
-            <a class="codinfox-tag-mark" href="/mula/tag/#{{ tag | slugify }}">{{ tag }}</a>
+            <a class="codinfox-tag-mark" href="/mortar/tag/#{{ tag | slugify }}">{{ tag }}</a>
             {% endfor %}
-            {% endif %}
+            {% endif %} -->
         </span>
 
         {{ post.content | split:"<!-- more -->" | first % }}
@@ -41,23 +38,22 @@ category: mula
         <hr/>
 
     </div>
-    {% endif %}
     {% endfor %}
 </div>
 
-<div class="pagination">
+<!-- <div class="pagination">
     {% if paginator.next_page %}
-    <a class="pagination-item older" href="/mula/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/mortar/page{{paginator.next_page}}">Older</a>
     {% else %}
     <span class="pagination-item older">Older</span>
     {% endif %}
     {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-    <a class="pagination-item newer" href="/mula">Newer</a>
+    <a class="pagination-item newer" href="/mortar">Newer</a>
     {% else %}
-    <a class="pagination-item newer" href="/mula/page{{paginator.previous_page}}">Newer</a>
+    <a class="pagination-item newer" href="/mortar/page{{paginator.previous_page}}">Newer</a>
     {% endif %}
     {% else %}
     <span class="pagination-item newer">Newer</span>
     {% endif %}
-</div>
+</div> -->

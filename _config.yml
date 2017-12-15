@@ -21,11 +21,11 @@ plugins:
 
 # Permalink and paginate
 permalink: none
-paginate_multiple:
-  - paginate: 5
-    paginate_path: '/mortar/page:num/'
-  - paginate: 5
-    paginate_path: '/mula/page:num/'
+# paginate_multiple:
+#   - paginate: 5
+#     paginate_path: '/mortar/page:num/'
+#   - paginate: 5
+#     paginate_path: '/mula/page:num/'
 include: ['_pages']
 # relative_permalinks: false
 
