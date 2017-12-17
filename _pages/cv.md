@@ -7,16 +7,16 @@ title: Curriculum Vitae
 
 # Personal information
 
-**Name:** Jesús Misráyim Rueda-Becerril
-**Current position:** Postdoctoral Research Associate
-**e-mail:** [jesus@ifm.umich.mx](jesus@ifm.umich.mx)
+**Name:** Jesús Misráyim Rueda-Becerril  
+**Current position:** Postdoctoral Research Associate  
+**e-mail:** [jesus@ifm.umich.mx](jesus@ifm.umich.mx)  
 
 ### Address
 
-Instituto de Fisica y Matematicas
-Universidad Michoacana de San Nicolas de Hidalgo
-Edificio C-3A, Ciudad Universitaria
-58040 Morelia, Michoacan (MEXICO)
+Instituto de Fisica y Matematicas  
+Universidad Michoacana de San Nicolas de Hidalgo  
+Edificio C-3A, Ciudad Universitaria  
+58040 Morelia, Michoacan (MEXICO)  
 
 
 # Profile
