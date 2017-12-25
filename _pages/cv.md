@@ -43,19 +43,22 @@ F. S. Guzmán & **J. M. Rueda-Becerril**. Spherical boson stars as black hole mi
 
 ### High energy physics around black holes
 
-- Theory and observation of high energy radiation in different scenarios where black holes are involved.
-  - Radiation transport.
-  - Radiation source and source region. - Particles acceleration processes.
-- Active galactic nuclei.
-  - Blazars.
-    - Acceleration processes in the emission region.
-    - Location of the emission region.
-    - The spectral effects due to different constituents of the material in the emission region.
-  - Radio galaxies.
-  - Quasars.
-  - Tidal disruption events.
-- Microquasars.
-- Gamma-ray bursts.
+- Theory and observation of high energy radiation in different scenarios where black holes are involved
+  - Radiation transport
+  - Radiation source and source region
+  - Particles acceleration processes
+- Active galactic nuclei
+  - Blazars
+    - Acceleration processes in the emission region
+    - Location of the emission region
+    - The spectral effects due to different constituents of the material in the emission region
+  - Radio galaxies
+  - Quasars
+  - Tidal disruption events
+- Microquasars
+- Gamma-ray bursts
+- Pulsars
+- X-ray binaries
 
 ### Numerical Astrophysics
 - Numerical solutions to the radiation transport equation with astrophysical applications.
@@ -63,6 +66,9 @@ F. S. Guzmán & **J. M. Rueda-Becerril**. Spherical boson stars as black hole mi
 - Numerical hydrodynamics and magnetohydrodynamics.
 - Performance, stability, convergence and accuracy of numerical codes.
 
+<!-- ### Numerical Relativity
+- Solutions to the Einstein equations
+ -->
 ### Computer Sciences
 - Decision-making optimization.
 - Machine learning (supervised and unsupervised).
