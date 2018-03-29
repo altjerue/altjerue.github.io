@@ -29,6 +29,10 @@ I am coauthor of three articles in peer reviewed scientific journals and author 
 
 <!-- I want to apply my mathematical knowledge, programming skills and data analysis experience to machine learning, data mining, decision making and modeling. -->
 
+# PhD Thesis
+[Numerical treatment of radiation processes in the internal shocks of magnetized relativistic outflows](http://roderic.uv.es/handle/10550/60003)
+
+[Errata](/files/errata.pdf)
 
 # Publications
 
