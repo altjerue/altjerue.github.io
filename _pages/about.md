@@ -12,7 +12,7 @@ Beyond science and computers I love hiking and climbing. In other words: I love 
 
 I also like watching movies an series. I do not know if a series has a very good production or not, but I like to analyze them from a sociological and scientific point of view. I know that movies are movies. I know what fiction means, but I have found it as a very good excercise to reinforce skepticism.
 
-## In the mortar for sauces
+<!-- ## In the mortar for sauces
 
 *In the mortar for souces* used to be the name of a [project of blog](/mortar/) that I started long ago. It is tradition in mexican families to prepare (hot) sauces with a mortar and pestle made of volcanic stone. It is a tough task smashing all the ingredients, to estimate the correct amount of them in order to get a tasty hot sauce, yet the experience of preparing the sauce in a mortar is at the same time relaxing since you have to exert pressure on it. Ergo everything that happened to you during the day will affect the final result. That is why it is said that if the lady that prepared the sauce (women used to be the ones that had to prepare the sauce) was angry, the hotness of it was extreme. So it is recommended not to make angry to the "sauce-erer" until the sauce is on the table.
 
@@ -22,4 +22,4 @@ And just like sauce are the things that one deals with day by day. What you lear
 
 This blog is more or less the result of the "sauce" that gives taste to my everyday learning. Mostly all the things that I like most which are physics, astrophysics and maths. Hope it will be helpful to someone sometime.
 
-## La mula parda
+## La mula parda -->

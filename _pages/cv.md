@@ -13,10 +13,10 @@ title: Curriculum Vitae
 
 ### Address
 
-Department of Physics and Astronomy
-Purdue University
-525 Northwestern Avenue
-West Lafayette, IN
+Department of Physics and Astronomy 
+Purdue University 
+525 Northwestern Avenue 
+West Lafayette, IN 
 47907, USA
   
 

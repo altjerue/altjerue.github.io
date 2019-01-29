@@ -4,16 +4,16 @@ layout: default
 
 Hi! This is my personal webpage. Thanks for visiting and I hope you find here something useful.
 
+# Other webpages
++ [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
++ [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
++ [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M)
+
 # GitHub repositories
 
 + [PypersPlots](https://altjerue.github.io/PypersPlots)
 + [emacs-init-file](https://altjerue.github.io/emacs-init-file)
 
-# Observatories
-
-+ [Fermi](https://fermi.gsfc.nasa.gov)
-+ [Event Horizon Telescope](http://eventhorizontelescope.org)
-+ [Ligo](https://www.ligo.caltech.edu) \-- [Virgo](http://www.virgo-gw.eu) \--  [LSC](http://www.ligo.org)
 
 # Job listings
 
@@ -25,12 +25,6 @@ Hi! This is my personal webpage. Thanks for visiting and I hope you find here so
 ## Physics & Astrophysics
 
 + [Fundamental Physical Constants](https://physics.nist.gov/cuu/Constants/index.html)
-+ [ADS](https://ui.adsabs.harvard.edu)
-+ [arXiv](https://arxiv.org)
-   - [Login](https://arxiv.org/user/login)
-   - [astro-ph](https://arxiv.org/list/astro-ph/new)
-   - [gr-qc](https://arxiv.org/list/gr-qc/new)
-   - [cs](https://arxiv.org/list/cs/new)
 
 ## Miscellaneous
 
@@ -38,6 +32,3 @@ Hi! This is my personal webpage. Thanks for visiting and I hope you find here so
 + [Diccionario de la Lengua Española](http://dle.rae.es/?w=diccionario)
 + [DeTeXify](http://detexify.kirelabs.org)
 + [doi2bib](https://www.doi2bib.org)
-
-
-+ [ResearchGate](https://www.researchgate.net)
