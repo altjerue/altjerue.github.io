@@ -9,15 +9,16 @@ title: Curriculum Vitae
 
 **Name:** Jesús Misráyim Rueda-Becerril  
 **Current position:** Postdoctoral Research Associate  
-**e-mail:** [jesus@ifm.umich.mx](jesus@ifm.umich.mx)  
+**e-mail:** [jruedabe@purdue.edu](jruedabe@purdue.edu)  
 
 ### Address
 
-Instituto de Fisica y Matematicas  
-Universidad Michoacana de San Nicolas de Hidalgo  
-Edificio C-3A, Ciudad Universitaria  
-58040 Morelia, Michoacan (MEXICO)  
-
+Department of Physics and Astronomy
+Purdue University
+525 Northwestern Avenue
+West Lafayette, IN
+47907, USA
+  
 
 # Profile
 
