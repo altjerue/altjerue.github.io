@@ -26,6 +26,9 @@ Hi! This is my personal webpage. Thanks for visiting and I hope you find here so
 
 + [Fundamental Physical Constants](https://physics.nist.gov/cuu/Constants/index.html)
 
+## En las nubes
+[Nube1](https://purdue0-my.sharepoint.com/:f:/g/personal/jruedabe_purdue_edu/Et_GqM8_vf9KjxNdxHR1eQ0B6CiL_bIXX-e_N3Cr-fYqGQ?e=fhbrih) [Nube2](https://drive.google.com/drive/folders/1M9OhzGxwEVZ8CRnmf52YtbiK9O2HE3wT?usp=sharing) [Nube3](https://www.dropbox.com/sh/3aprqv86f86yhpv/AACP-znTWw8ZOGnsdpTXvxsaa?dl=0)
+
 ## Miscellaneous
 
 + [RegExp online tool](https://regexr.com)

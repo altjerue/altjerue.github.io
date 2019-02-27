@@ -23,6 +23,3 @@ And just like sauce are the things that one deals with day by day. What you lear
 This blog is more or less the result of the "sauce" that gives taste to my everyday learning. Mostly all the things that I like most which are physics, astrophysics and maths. Hope it will be helpful to someone sometime.
 
 ## La mula parda -->
-
-## En las nubes
-[Nube1](https://purdue0-my.sharepoint.com/:f:/g/personal/jruedabe_purdue_edu/Et_GqM8_vf9KjxNdxHR1eQ0B6CiL_bIXX-e_N3Cr-fYqGQ?e=fhbrih) [Nube2](https://drive.google.com/drive/folders/1M9OhzGxwEVZ8CRnmf52YtbiK9O2HE3wT?usp=sharing) [Nube3](https://www.dropbox.com/sh/3aprqv86f86yhpv/AACP-znTWw8ZOGnsdpTXvxsaa?dl=0)
