@@ -11,7 +11,7 @@ title: Jesus M Rueda-Becerril
 description: My personal webpage
 
 author:
-  email: jesus.mrb103@gmail.com
+  email: jm.ruebe@gmail.com
   display_name: jeruebe
   first_name: Jesus
   last_name: Rueda-Becerril
@@ -20,7 +20,6 @@ author:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  - jekyll-paginate-multiple
   - redcarpet
   - jekyll-gist
   - pygments.rb
@@ -28,8 +27,9 @@ plugins:
 # Permalink and paginate
 permalink: none
 # paginate_multiple:
-#   - paginate: 5
-#     paginate_path: '/mortar/page:num/'
+paginate: 5
+
+paginate_path: '/blog/page:num/'
 #   - paginate: 5
 #     paginate_path: '/mula/page:num/'
 include: ['_pages']

@@ -9,10 +9,11 @@ Hi! This is my personal webpage. Thanks for visiting and I hope you find here so
 + [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
 + [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M)
 
+<!-- 
 # GitHub repositories
 
 + [PypersPlots](https://altjerue.github.io/PypersPlots)
-+ [emacs-init-file](https://altjerue.github.io/emacs-init-file)
++ [emacs-init-file](https://altjerue.github.io/emacs-init-file) -->
 
 
 # Job listings
