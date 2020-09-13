@@ -103,5 +103,5 @@ Skype: jesus_mrb
 Twitter: jerue103
 
 # My CV in PDF format
-- [English](https://github.com/altjerue/jmrb_cv/raw/master/JesusMRB_eng.pdf)
+- [English](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
 - [Español](/404.html)
