@@ -7,7 +7,7 @@ kramdown:
 # Description
 title: Jesus M Rueda-Becerril, PhD
 logo: /images/OPA.png
-show_downloads: false
+# show_downloads: false
 name: Jesus M. Rueda-Becerril
 description: Welcome to my personal webpage
 theme: jekyll-theme-minimal
@@ -37,7 +37,11 @@ paginate_path: '/blog/page:num/'
 include: ['_pages']
 # relative_permalinks: false
 
-# atom:
+# github:
+#   is_user_page: false
+#   is_project_page: false
+
+  # atom:
 #   buildCommand:
 #     - bundle
 #     - exec
