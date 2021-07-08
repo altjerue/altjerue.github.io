@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Home
 ---
 
 # A bit about me
