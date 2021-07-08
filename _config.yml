@@ -27,21 +27,17 @@ plugins:
   - pygments.rb
 
 # Permalink and paginate
-permalink: none
+# permalink: none
 # paginate_multiple:
-paginate: 5
+# paginate: 5
 
-paginate_path: '/blog/page:num/'
+# paginate_path: '/blog/page:num/'
 #   - paginate: 5
 #     paginate_path: '/mula/page:num/'
 include: ['_pages']
 # relative_permalinks: false
 
-github:
-  is_user_page: false
-  is_project_page: false
-
-  # atom:
+# atom:
 #   buildCommand:
 #     - bundle
 #     - exec
