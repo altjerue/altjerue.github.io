@@ -5,10 +5,12 @@ kramdown:
   syntax_highlighter: rouge
 
 # Description
-theme: jekyll-theme-cayman
+title: Jesus M Rueda-Becerril, PhD
+logo: /images/OPA.png
+show_downloads: false
 name: Jesus M. Rueda-Becerril
-title: Jesus M Rueda-Becerril
-description: My personal webpage
+description: Welcome to my personal webpage
+theme: jekyll-theme-minimal
 
 author:
   email: jm.ruebe@gmail.com

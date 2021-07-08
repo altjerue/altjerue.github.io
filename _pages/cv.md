@@ -5,84 +5,74 @@ title: Curriculum Vitae
 ---
 
 
-# Personal information
+# Contact
 
-**Name:** Jesús Misráyim Rueda-Becerril  
-**Current position:** Postdoctoral Research Associate  
-**e-mail:** [jruedabe@purdue.edu](jruedabe@purdue.edu)  
+**Name:** Jesús M. Rueda-Becerril\
+**Current position:** Postdoctoral Research Assistant\
+**Institutional Address:**\
+Center for Computational Relativity and Gravitation\
+Rochester Institute of Technology\
+170 Lomb Memorial Drive\
+Rochester, NY 14623, USA\
+**E-mail:**  [jm.ruebe@gmail.com](jm.ruebe@gmail.com)\
+**Institutional E-mail:** [jmrsma@rit.edu](jmrsma@rit.edu)
 
-### Address
+# Curriculum Vitae
 
-Department of Physics and Astronomy 
-Purdue University 
-525 Northwestern Avenue 
-West Lafayette, IN 
-47907, USA
-  
+My full CV in PDF format in [English](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf).\
+Mi CV completo en formato PDF en [Español](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf).
 
-# Profile
+[My ORCID](https://orcid.org/0000-0003-1988-1912)
+
+## Education
+
+**Ph.D. in Physics**, July 2017\
+Distinction Exellent *cum laude*\
+Universitat de València, Spain\
+Advisors: Prof. Miguel A. Aloy & Dr. Petar Mimica.
+
+**M.Sc. in Physics**, September 2011\
+Universidad Michoacana de San Nicolás de Hidalgo, Mexico
+
+**B.Sc. in Physics**, May 2009\
+Universidad Autónoma del Estado de México, Mexico
+
+## Previous Positions
+
+**Postdoctoral Fellow**, October 2018 – 2020\
+Department of Physics and Astronomy, Purdue University, USA
+
+**Postdoctoral Fellow**, January – September 2018\
+Instituto de Física y Matemáticas, Universidad Michoacana de San Nicolás de Hidalgo, Mexico
+
+## Research Grants
+- *NASA Fermi Cycle-12 Guest Investigator Program*. Grant #121077\
+PI: Giannios, D., Co-I: **Rueda-Becerril, J. M.**
+
+
+## Grants and Fellowships
+- Oct. 2018 – 2020: **Fellowship** from the Mexican Federal Government for a postdoctoral stay abroad awarded by the National Council of Science and Technology (CONACyT).
+- Jan. – Sep. 2018: **Fellowship** from the Mexican Federal Government under the Program for the Professional Development of Higher Education Institutions, awarded by the Secretariat of Public Education.
+- Sep. 2014 – Aug. 2016: **Fellowship** from the Mexican Federal Government to study abroad awarded by the National Council of Science and Technology (CONACyT).
+- Oct. 2011 – Jun. 2014: **Fellowship** Santiago Grisolía awarded by the Council of Education, Research, Culture and Sport of the Valencian Comunity, Spain.
+- Sep. 2009 – Aug. 2011: **Fellowship** for MSc studies at the Institute of Physics and Mathematics, Universi- dad Michoacana de San Nicolás de Hidalgo, granted by the Mexican Council of Science and Technology (CONACyT).
+<!-- - Jun. – Aug. 2007: Fellowship for a temporary stay (3 months) in a national research center under the XVII summer of scientific investigation program awarded by the Mexican Academia of Science. -->
+
+## Awards
+- *Marcos Moshinsky* **Award**: for Best Poster presented at the IWARA 2020 Video Conference, Mexico City, 6 – 12 September 2020.
+- *Lic. Juan Josafat Pichardo Cruz* **Award**: for finishing and defending a licentiate thesis within a year after completing the undergraduate credits, granted by the Universidad Autónoma del Estado de México, 2009.
+
+<!-- # Profile
 
 Doctor in Astrophysics with 7 years of expertise in research. Mostly on the development of numerical/computational tools for physical and astrophysical simulations. I have a high expertise in programming, data analysis and problem solving.
 
 I am creative, innovative, analyst and hard worker. During my PhD studies I developed high programming skills in several languages such as `Python`, `R`, `Fortran`, `C++`, `Shell`, etc., and version control tools like `Git` using platforms such as `GitHub` and `Bitbucket`. I worked on developing sophisticated numerical tools which were implemented to simulate blazars flares (prompt high energy radiation from relativistic jets of active galactic nuclei). This has shown my fast learning skill of new programming languages and develop efficient codes to solve the problem posed.
 
-I am coauthor of three articles in peer reviewed scientific journals and author of a doctoral thesis, qualified as innovative, in which several numerical and programming issues were overcome, reason why it received the distinction of excellent. In addition, I have good English skills which makes me capable of discussing and interact fluently in both Spanish and English.
+I am coauthor of three articles in peer reviewed scientific journals and author of a doctoral thesis, qualified as innovative, in which several numerical and programming issues were overcome, reason why it received the distinction of excellent. In addition, I have good English skills which makes me capable of discussing and interact fluently in both Spanish and English. 
 
-<!-- I want to apply my mathematical knowledge, programming skills and data analysis experience to machine learning, data mining, decision making and modeling. -->
+I want to apply my mathematical knowledge, programming skills and data analysis experience to machine learning, data mining, decision making and modeling. -->
 
-# PhD Thesis
-[Numerical treatment of radiation processes in the internal shocks of magnetized relativistic outflows](http://roderic.uv.es/handle/10550/60003)
-
-[Errata](/files/errata.pdf)
-
-# Publications
-
-**J. M. Rueda-Becerril**, P. Mimica & M. A. Aloy. On the influence of a hybrid thermal–-non-thermal distribution in the internal shocks model for blazars. *Monthly Notices of the Royal Astronomical Society*, 468:1169–1182, June 2017. doi: [10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476).
-
-**J. M. Rueda-Becerril**, P. Mimica & M. A. Aloy. The influence of the magnetic field on the spectral properties of blazars. *Monthly Notices of the Royal Astronomical Society*, 438:1856–1869, Feb. 2014b. doi: [10.1093/mnras/stt2335](https://doi.org/10.1093/mnras/stt2335).
-
-F. S. Guzmán & **J. M. Rueda-Becerril**. Spherical boson stars as black hole mimickers. *Physical Review D*, 80(8):084023, October 2009. doi: [10.1103/PhysRevD.80.084023](https://doi.org/10.1103/physrevd.80.084023).
-
-
-# Interests
-
-### High energy physics around black holes
-
-- Theory and observation of high energy radiation in different scenarios where black holes are involved
-  - Radiation transport
-  - Radiation source and source region
-  - Particles acceleration processes
-- Active galactic nuclei
-  - Blazars
-    - Acceleration processes in the emission region
-    - Location of the emission region
-    - The spectral effects due to different constituents of the material in the emission region
-  - Radio galaxies
-  - Quasars
-  - Tidal disruption events
-- Microquasars
-- Gamma-ray bursts
-- Pulsars
-- X-ray binaries
-
-### Numerical Astrophysics
-- Numerical solutions to the radiation transport equation with astrophysical applications.
-- Numerical treatment of the microphysics involved in the emission of high energy radiation.
-- Numerical hydrodynamics and magnetohydrodynamics.
-- Performance, stability, convergence and accuracy of numerical codes.
-
-<!-- ### Numerical Relativity
-- Solutions to the Einstein equations
- -->
-### Computer Sciences
-- Decision-making optimization.
-- Machine learning (supervised and unsupervised).
-- Neuronal networks.
-- Text mining.
-- Network analysis.
-
-
-# Computer skills
+<!-- # Computer skills
 
 ### Proficient
 Unix (Linux, macOS), Fortran (fixed and free format), OpenMP, Python (2, 3), R, RStudio, Shell, Makefile, HDF5, Git, Mathematica, LaTeX, Atom (text editor), Emacs, gnuplot, grace, GitHub
@@ -91,17 +81,9 @@ Unix (Linux, macOS), Fortran (fixed and free format), OpenMP, Python (2, 3), R, 
 C, C++, Julia, Elisp, MPI, SageMath, yEd, OpenOffice, Microsoft Office (Word, Excel, PowerPoint), iWork (Pages, Numbers, Keynote), DOT, TikZ/PGF, GeoGebra
 
 ### Basic
-HTML, Matlab, Maple, Java, Swift, Perl, SQL, Java
+HTML, Matlab, Maple, Java, Swift, Perl, SQL, Java -->
 
-
-# Profiles and social networks
-
-[ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
-[LinkedIn](https://www.linkedin.com/in/jeruebe)
-[Telegram](http://t.me/jerube)
-Skype: jesus_mrb
-Twitter: jerue103
-
-# My CV in PDF format
-- [English](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
-- [Español](/404.html)
+## Languages
+- *Spanish*: native proficiency
+- *English*: full professional proficiency
+- *Catalan*: professional working proficiency
