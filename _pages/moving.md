@@ -27,10 +27,6 @@ I'm moving to Seattle, WA, by the end of September. I'm selling some stuff:
 - **TV Stand** $20 Craigslist \| Marketplace
 - ***Senheissen* Bluetooth Headphones** $60 Craigslist \| Marketplace
 - **Push-up bars** $15 Craigslist \| Marketplace
-<!--
-- **LG TV** $15 Craigslist \| Marketplace
-- **Wooden platform bed. Size: Full** $80 Craigslist \| Marketplace
--->
 
 ## Giveaway
 - Small table
