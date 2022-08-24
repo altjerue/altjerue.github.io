@@ -18,15 +18,15 @@ I'm moving to Seattle, WA, by the end of September. I'm selling some stuff:
 - **Apple Magic Trackpad 2** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/318007513847898/)
 - **Apple Magic Keyboard** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/622274359265466/)
 - **Stow Slim for iPad 11"** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/1729154267444238/)
-- **Office Chair** $20 <!-- Craigslist \| Marketplace -->
-- **Dresser** $50 <!-- Craigslist \| Marketplace -->
-- **Coffee Table** $50 <!-- Craigslist \| Marketplace -->
-- **L-Shaped couch** $180 OBO <!-- Craigslist \| Marketplace -->
-- **Nightstand** $30 <!-- Craigslist \| Marketplace -->
-- **Bookshelf** $30 <!-- Craigslist \| Marketplace -->
-- **TV Stand** $20 <!-- Craigslist \| Marketplace -->
-- ***Senheissen* Bluetooth Headphones** $60 <!-- Craigslist \| Marketplace -->
-- **Push-up bars** $15 <!-- Craigslist \| Marketplace -->
+- **Office Chair** $20 Craigslist \| Marketplace
+- **Dresser** $50 Craigslist \| Marketplace
+- **Coffee Table** $50 Craigslist \| Marketplace
+- **L-Shaped couch** $180 OBO Craigslist \| Marketplace
+- **Nightstand** $30 Craigslist \| Marketplace
+- **Bookshelf** $30 Craigslist \| Marketplace
+- **TV Stand** $20 Craigslist \| Marketplace
+- ***Senheissen* Bluetooth Headphones** $60 Craigslist \| Marketplace
+- **Push-up bars** $15 Craigslist \| Marketplace
 <!--
 - **LG TV** $15 Craigslist \| Marketplace
 - **Wooden platform bed. Size: Full** $80 Craigslist \| Marketplace
