@@ -23,12 +23,13 @@
             <th><a href="/research/" class="btn">Research</a></th>
             <th><a href="/cv/" class="btn">CV</a></th>
             <th><a href="/links/" class="btn">Links</a></th>
+            <th><a href="/moving/" class="btn">Links</a></th>
           </tr>
         </table>
         {% endif %}
 
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-        
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}

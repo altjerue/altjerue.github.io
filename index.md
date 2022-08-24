@@ -5,7 +5,9 @@ title: Home
 
 # A bit about me
 
-I am a computational astrophysicist. I am currently a Postdoctoral Research Assistant at the [CCRG](https://ccrg.rit.edu) at [RIT](https://www.rit.edu), under the mentorshiip of [Prof. Manuela Campanelli](https://ccrg.rit.edu/user/manuela.campanelli). I am working on simulations of supermassive black hole binaries approaching merger, studying their accretion disk dynamics and calculating their photon spectral and timing signatures, including jet formation. To acheive this I make use of the numerical code **Harm3D**, and the **PatchworkMHD** infrastructure.
+I am a computational astrophysicist. Currently I am a **Full Stack Software Developer**.
+
+I was a former a Postdoctoral Research Assistant at the [CCRG](https://ccrg.rit.edu) at [RIT](https://www.rit.edu), under the mentorshiip of [Prof. Manuela Campanelli](https://ccrg.rit.edu/user/manuela.campanelli). I am working on simulations of supermassive black hole binaries approaching merger, studying their accretion disk dynamics and calculating their photon spectral and timing signatures, including jet formation. To acheive this I make use of the numerical code **Harm3D**, and the **PatchworkMHD** infrastructure.
 
 I studied Physics at the [Autonomous University of the State of Mexico](http://web.uaemex.mx/fciencias/) (Mexico). I graduated developing a numerical solver for the geodesics equation. During my master studies at the [University of Michoacan](http://www.ifm.umich.mx/ifm/) (Mexico), specializing on numerical hydrodynamics in GR developing a relativistic SPH code. I did my PhD studies at the [University of Valencia](https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament-astronomia-astrofisica-1285854555555.html) (Spain) under the supervision of [Prof. Miguel A. Aloy](https://www.uv.es/camap/aloy.html) and Dr. Petar Mimica. My main research was around numerical modeling of high energy radiation in magnetized plasma, particularly studying flares in blazars.
 
@@ -21,11 +23,6 @@ Beyond astrophysics, science and computers, I love hiking and climbing. In other
 - [LinkedIn](https://www.linkedin.com/in/jeruebe)
 - [Twitter](https://twitter.com/jerue103)
 - [Instagram](https://www.instagram.com/gsucry)
-
-### What I'm listening to
-
-- [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR?si=xTvi4yc5TLazfljt_1Uwrw&dl_branch=1)
-- [SED: La Advertencia](https://open.spotify.com/show/0lQ8T4VRxFZtcZQsX7xpUr?si=Qi--mXZnTpy_YnS2RjD3uw&dl_branch=1)
 
 ### What I'm reading
 
