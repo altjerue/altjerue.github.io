@@ -61,7 +61,9 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 <img src="/images/on-sale/IMG_4995.jpg" height="150">
 
 - ~~***Senheissen* Bluetooth Headphones** $60 aCraigslist \| Marketplace~~
-<!---<img src="/images/on-sale/IMG_4930.jpeg" width="200"> <img src="/images/on-sale/IMG_4931.jpeg" width="200"> <img src="/images/on-sale/IMG_4932.jpeg" width="113">--->
+
+<img src="/images/on-sale/IMG_4930.jpeg" height="150"> <img src="/images/on-sale/IMG_4931.jpeg" height="150"> <img src="/images/on-sale/IMG_4932.jpeg" height="150">
+
 - **Push-up bars** $15 Craigslist \| Marketplace
 
 <img src="/images/on-sale/IMG_4927.jpeg" height="150">
