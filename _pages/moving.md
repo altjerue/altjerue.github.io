@@ -38,7 +38,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 - ~~**Chair Mat** $15 Craigslist \| Marketplace~~
 - **Dresser** $50 Craigslist \| Marketplace
 
-<img src="/images/on-sale/IMG_0369.jpg" height="150">
+<img src="/images/on-sale/IMG_4992.jpg" height="150">
 
 - **Coffee Table** $50 Craigslist \| Marketplace
 
@@ -68,6 +68,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 - **Fitness mat 10mm Thickness** $5 Craigslist \| Marketplace
 - **Squared Pouf** $5 Craigslist \| Marketplace
+
 <img src="/images/on-sale/IMG_4928.jpeg" title="Pouf" height="150"> <img src="/images/on-sale/IMG_4929.jpeg" title="Pouf" height="150">
 
 - **TV (LG Flatron SDR)** $5
