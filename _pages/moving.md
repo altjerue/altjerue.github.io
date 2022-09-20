@@ -22,15 +22,15 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 <img src="/images/on-sale/IMG_0372.jpg" height="150"> <img src="/images/on-sale/IMG_0375.jpg" height="150"> <img src="/images/on-sale/IMG_0373.jpg" height="150"> <img src="/images/on-sale/IMG_0374.jpg" height="150"> <img src="/images/on-sale/IMG_0377.jpg" height="150">
 
 - ~~**L-Shaped desk** $60 OBO~~
-- **Sleeve for MacBook Pro 13"** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/1439046243236061/)
+- **Sleeve for MacBook Pro 13"** $50 Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/1439046243236061/)
 
 <img src="/images/on-sale/IMG_0371.jpg" height="150">
 
-- **Apple Magic Trackpad 2** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/318007513847898/)
+- **Apple Magic Trackpad 2** $90 Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/318007513847898/)
 
 <img src="/images/on-sale/IMG_0370.jpg" height="150">
 
-- **Apple Magic Keyboard** Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/622274359265466/)
+- **Apple Magic Keyboard** $50 Craigslist \| [Marketplace](https://www.facebook.com/marketplace/item/622274359265466/)
 
 <img src="/images/on-sale/IMG_0369.jpg" height="150">
 
@@ -60,7 +60,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_4995.jpg" height="150">
 
-- ~~***Senheissen* Bluetooth Headphones** $60 aCraigslist \| Marketplace~~
+- ***Senheissen* Bluetooth Headphones** $60 Craigslist \| Marketplace
 
 <img src="/images/on-sale/IMG_4930.jpeg" height="150"> <img src="/images/on-sale/IMG_4931.jpeg" height="150"> <img src="/images/on-sale/IMG_4932.jpeg" height="150">
 
@@ -69,18 +69,29 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 <img src="/images/on-sale/IMG_4927.jpeg" height="150">
 
 - **Fitness mat 10mm Thickness** $5 Craigslist \| Marketplace
+
+<img src="/images/on-sale/IMG_5001.jpg" title="Pouf" height="150"> <img src="/images/on-sale/IMG_5002.jpg" title="Pouf" height="150">
+
 - **Squared Pouf** $5 Craigslist \| Marketplace
 
 <img src="/images/on-sale/IMG_4928.jpeg" title="Pouf" height="150"> <img src="/images/on-sale/IMG_4929.jpeg" title="Pouf" height="150">
 
-- **TV (LG Flatron SDR)** $5
+- **TV (LG Flatron SDR)** $10
 
 <img src="/images/on-sale/IMG_4993.jpg" height="150">
 
 - **Wooden platform bed. Size: Full** $80 Craigslist \| Marketplace
-- **Small table** $2
+
+<img src="/images/on-sale/bed-frame.png" height="150">
+
 - **Frame** $2
+
+<img src="/images/on-sale/IMG_4999.jpg" height="150">
+
 - **Whiteboard** $5
+
+<img src="/images/on-sale/IMG_4997.jpg" height="150">
+
 - **Multi-level stand** $2
 
 <img src="/images/on-sale/IMG_4991.jpg" height="150">
@@ -88,8 +99,6 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 - **Couch Throw Pillos x2** $2 (each)
 
 <img src="/images/on-sale/IMG_4878.jpg" height="150">
-
-- **Large mug** $2
 
 <!--
 ## Giveaway
