@@ -34,25 +34,25 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_0369.jpg" height="150" alt="Apple Magic Keyboard">
 
-- ~~**Office Chair** $20 Craigslist \| Marketplace~~
-- ~~**Chair Mat** $15 Craigslist \| Marketplace~~
-- **Dresser** $50 Craigslist \| Marketplace
+- ~~**Office Chair** $20~~
+- ~~**Chair Mat** $15~~
+- **Dresser** $50 *CLAIMED*
 
 <img src="/images/on-sale/IMG_4992.jpg" height="150" alt="Dresser">
 
-- **Coffee Table** $50 Craigslist \| Marketplace
+- **Coffee Table** $50 *CLAIMED*
 
 <img src="/images/on-sale/IMG_4990.jpg" height="150" alt="Coffee Table">
 
-- **L-Shaped couch** $180 OBO Craigslist \| Marketplace
+- **L-Shaped couch** $180 OBO *CLAIMED*
 
 <img src="/images/on-sale/IMG_0007.jpg" height="150" alt="L-Shaped couch">
 
-- **Nightstand** $30 Craigslist \| Marketplace
+- **Nightstand** $30 *CLAIMED*
 
 <img src="/images/on-sale/IMG_0006.jpg" height="150" alt="Nightstand">
 
-- **Bookshelf** $20 Craigslist \| Marketplace
+- **Bookshelf** $20 *CLAIMED*
 
 <img src="/images/on-sale/IMG_4938.jpeg" height="150" alt="Bookshelf">
 
@@ -60,30 +60,19 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_4995.jpg" height="150" alt="TV Stand">
 
-- ***Senheissen* Bluetooth Headphones** $60 Craigslist \| Marketplace
+- **Sennheiser Bluetooth Headphones** $60 [Marketplace](https://www.facebook.com/marketplace/item/402127538663505)
 
 <img src="/images/on-sale/IMG_4930.jpeg" height="150" alt="Senheissen Bluetooth Headphones"> <img src="/images/on-sale/IMG_4931.jpeg" height="150" alt="Senheissen Bluetooth Headphones"> <img src="/images/on-sale/IMG_4932.jpeg" height="150" alt="Senheissen Bluetooth Headphones">
 
-- **Push-up bars** $15 Craigslist \| Marketplace
+- ~~**Push-up bars** $15~~
 
-<img src="/images/on-sale/IMG_4927.jpeg" height="150" alt="Push-up bars">
-
-- **Fitness mat 10mm Thickness** $5 Craigslist \| Marketplace
+- **Fitness mat 10mm Thickness** $10 [Marketplace](https://www.facebook.com/marketplace/item/1297641657645000)
 
 <img src="/images/on-sale/IMG_5001.jpg" height="150" alt="Fitness mat 10mm Thickness"> <img src="/images/on-sale/IMG_5002.jpg" height="150" alt="Fitness mat 10mm Thickness">
 
-- **Squared Pouf** $5 Craigslist \| Marketplace
-
-<img src="/images/on-sale/IMG_4928.jpeg" height="150" alt="Squared Pouf"> <img src="/images/on-sale/IMG_4929.jpeg" height="150" alt="Squared Pouf">
-
-- **TV (LG Flatron SDR)** $10
-
-<img src="/images/on-sale/IMG_4993.jpg" height="150" alt="TV">
-
-- **Wooden platform bed. Size: Full** $80 Craigslist \| Marketplace
-
-<img src="/images/on-sale/bed-frame.png" height="150" alt="Wooden platform bed">
-
+- ~~**Squared Pouf** $5~~
+- ~~**TV (LG Flatron SDR)** $10~~
+- **Wooden platform bed. Size: Full** $80 *CLAIMED*
 - **Frame** $2
 
 <img src="/images/on-sale/IMG_4999.jpg" height="150" alt="Frame">
