@@ -68,7 +68,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_4997.jpg" height="150" alt="Whiteboard">
 
-- **Multi-level stand**
+- ~~**Multi-level stand**~~
 - **Couch Throw Pillows x2** $2 (each)
 
 <img src="/images/on-sale/IMG_4878.jpg" height="150" alt="Couch Throw Pillows">
