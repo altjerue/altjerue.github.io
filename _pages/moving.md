@@ -17,7 +17,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_0365.jpg" height="150" alt="LG 27in UltraFine 5K Monitor">
 
-- **Schwinn *Standpoint* 27.5" Mountain Bike** $250 OBO [Craigslist](https://rochester.craigslist.org/bik/d/rochester-schwinn-standpoint-275/7524805279.html) \| [Marketplace](https://www.facebook.com/marketplace/item/724734665292631/)
+- **Schwinn *Standpoint* 27.5" Mountain Bike** $180 OBO [Craigslist](https://rochester.craigslist.org/bik/d/rochester-schwinn-standpoint-275/7524805279.html) \| [Marketplace](https://www.facebook.com/marketplace/item/724734665292631/)
 
 <img src="/images/on-sale/IMG_0372.jpg" height="150" alt="Schwinn Standpoint 27.5in Mountain Bike"> <img src="/images/on-sale/IMG_0375.jpg" height="150" alt="Schwinn Standpoint 27.5in Mountain Bike"> <img src="/images/on-sale/IMG_0373.jpg" height="150" alt="Schwinn Standpoint 27.5in Mountain Bike"> <img src="/images/on-sale/IMG_0374.jpg" height="150" alt="Schwinn Standpoint 27.5in Mountain Bike"> <img src="/images/on-sale/IMG_0377.jpg" height="150" alt="Schwinn Standpoint 27.5in Mountain Bike">
 
@@ -36,27 +36,18 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 - ~~**Office Chair**~~
 - ~~**Chair Mat**~~
-- **Dresser** $50 *CLAIMED*
+- ~~**Dresser**~~
+- **Coffee Table** $50 [Marketplace](https://www.facebook.com/marketplace/item/493338289316710)
 
-<img src="/images/on-sale/IMG_4992.jpg" height="150" alt="Dresser">
+<img src="/images/on-sale/IMG_4990.jpg" height="150" alt="Coffee Table"> <img src="/images/on-sale/IMG_5039.jpg" height="150" alt="Coffee Table">
 
-- **Coffee Table** $50 *CLAIMED*
+- ~~**L-Shaped couch**~~
+- **Nightstand** $30 [Marketplace](https://www.facebook.com/marketplace/item/832026021256316)
 
-<img src="/images/on-sale/IMG_4990.jpg" height="150" alt="Coffee Table">
-
-- **L-Shaped couch** $180 OBO *CLAIMED*
-
-<img src="/images/on-sale/IMG_0007.jpg" height="150" alt="L-Shaped couch">
-
-- **Nightstand** $30 *CLAIMED*
-
-<img src="/images/on-sale/IMG_0006.jpg" height="150" alt="Nightstand">
+<img src="/images/on-sale/IMG_5040.jpg" height="150" alt="Nightstand">
 
 - ~~**Bookshelf**~~
-- **TV Stand** $15 [Marketplace](https://www.facebook.com/marketplace/item/484670706620217)
-
-<img src="/images/on-sale/IMG_4995.jpg" height="150" alt="TV Stand">
-
+- ~~**TV Stand**~~
 - **Sennheiser Bluetooth Headphones** $60 [Marketplace](https://www.facebook.com/marketplace/item/402127538663505)
 
 <img src="/images/on-sale/IMG_4930.jpeg" height="150" alt="Senheissen Bluetooth Headphones"> <img src="/images/on-sale/IMG_4931.jpeg" height="150" alt="Senheissen Bluetooth Headphones"> <img src="/images/on-sale/IMG_4932.jpeg" height="150" alt="Senheissen Bluetooth Headphones">
@@ -77,13 +68,14 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_4997.jpg" height="150" alt="Whiteboard">
 
-- **Multi-level stand** $2
-
-<img src="/images/on-sale/IMG_4991.jpg" height="150" alt="Multi-level stand">
-
+- **Multi-level stand**
 - **Couch Throw Pillows x2** $2 (each)
 
 <img src="/images/on-sale/IMG_4878.jpg" height="150" alt="Couch Throw Pillows">
+
+- **10in fan, 3 speeds** $5 [Marketplace](https://www.facebook.com/marketplace/item/404709624977685)
+
+<img src="/images/on-sale/IMG_5041.jpg" height="150" alt="Couch Throw Pillows">
 
 <!--
 ## Giveaway
