@@ -4,7 +4,6 @@ layout: default
 title: Moving to Seattle
 ---
 
-
 # Moving to Seattle
 
 Hi!
@@ -37,7 +36,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 - ~~**Office Chair**~~
 - ~~**Chair Mat**~~
 - ~~**Dresser**~~
-- **Coffee Table** $50 [Marketplace](https://www.facebook.com/marketplace/item/493338289316710)
+- **Coffee Table** $50 *CLAIMED* [Marketplace](https://www.facebook.com/marketplace/item/493338289316710)
 
 <img src="/images/on-sale/IMG_4990.jpg" height="150" alt="Coffee Table"> <img src="/images/on-sale/IMG_5039.jpg" height="150" alt="Coffee Table">
 
@@ -73,9 +72,7 @@ I'm moving to Seattle by the end of September. I'm planning to do the I-90 (Bost
 
 <img src="/images/on-sale/IMG_4878.jpg" height="150" alt="Couch Throw Pillows">
 
-- **10in fan, 3 speeds** $5 [Marketplace](https://www.facebook.com/marketplace/item/404709624977685)
-
-<img src="/images/on-sale/IMG_5041.jpg" height="150" alt="Couch Throw Pillows">
+- ~~**10in fan, 3 speeds**~~
 
 <!--
 ## Giveaway
