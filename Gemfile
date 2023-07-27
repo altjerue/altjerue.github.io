@@ -8,7 +8,6 @@ gem 'jekyll-feed'
 gem 'hpricot'
 gem 'open_uri_redirections'
 gem "minima"
-
-gem "jekyll", "~> 3.9"
+gem "jekyll"
 gem "webrick", ">= 2.2.8"
 gem "kramdown-parser-gfm"
