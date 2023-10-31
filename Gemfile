@@ -10,5 +10,5 @@ gem 'open_uri_redirections'
 gem "minima"
 
 gem "jekyll", "~> 3.9"
-gem "webrick", ">= 2.2.8"
+gem "webrick", ">= 1.8.1"
 gem "kramdown-parser-gfm"
