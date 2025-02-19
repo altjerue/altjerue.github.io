@@ -8,7 +8,7 @@ gem 'jekyll-feed'
 gem 'open_uri_redirections'
 gem "minima"
 
-gem 'rails', '~> 6.1.0'
+gem 'rails', '>= 6.1.0'
 gem "jekyll", ">= 3.9", "< 5.0"
 gem "webrick", ">= 1.8.1"
 gem "kramdown-parser-gfm"
