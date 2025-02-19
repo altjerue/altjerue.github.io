@@ -19,10 +19,8 @@ Beyond astrophysics, science and computers, I love hiking and climbing. In other
 
 ### Where to find me in social media
 
-- [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 - [LinkedIn](https://www.linkedin.com/in/jeruebe)
-- [Twitter](https://twitter.com/jerue103)
-- [Instagram](https://www.instagram.com/gsucry)
+- [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 
 ### What I'm reading
 
