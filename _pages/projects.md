@@ -14,9 +14,9 @@ title: Projects
 ### [Tleco](https://github.com/zkdavis/Tleco)  | Jan 2024 -- Sep 2024
 
 - Open Source Code for Simulation of Relativistic Particles Radiation
-- *Tleco* stands for both *in the fire* and *rise* in the nahuatl language.
+- `Tleco` stands for both *in the fire* and *rise* in the nahuatl language.
 - Numerical code that simulates particles in relativistic plasma, and the rise of radiation from accelerating particles.
-- Consists of both Rust functions and Python functions previously built in the Fortran code *Paramo*.
+- Consists of both Rust functions and Python functions previously built in the Fortran code `Paramo`.
 
 ### [Paramo](https://github.com/altjerue/paramo)  | Oct 2018 -- Apr 2022
 
