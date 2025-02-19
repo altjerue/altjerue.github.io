@@ -1,14 +1,16 @@
 source 'https://rubygems.org'
-gem 'github-pages', group: :jeckyll_plugins do
+gem 'github-pages', group: :jekyll_plugins do
   gem "jekyll-paginate"
 end
 gem 'redcarpet'
 gem 'pygments.rb'
 gem 'jekyll-feed'
-gem 'hpricot'
 gem 'open_uri_redirections'
 gem "minima"
 
-gem "jekyll", "~> 3.9"
+gem 'rails', '~> 6.1.0'
+gem "jekyll", ">= 3.9", "< 5.0"
 gem "webrick", ">= 1.8.1"
 gem "kramdown-parser-gfm"
+gem "thor", ">= 0.19.4", "< 2.0"
+gem "bigdecimal" # Add this line
