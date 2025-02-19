@@ -14,3 +14,5 @@ gem "webrick", ">= 1.8.1"
 gem "kramdown-parser-gfm"
 gem "thor", ">= 0.19.4", "< 2.0"
 gem "bigdecimal" # Add this line
+gem "nokogiri", ">= 1.18.3"
+gem "actionpack", ">= 7.0.8.7"
