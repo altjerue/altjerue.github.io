@@ -456,6 +456,7 @@ DEPENDENCIES
   github-pages
   jekyll (>= 3.9, < 5.0)
   jekyll-feed
+  jekyll-paginate
   kramdown-parser-gfm
   minima
   nokogiri (>= 1.18.3)
