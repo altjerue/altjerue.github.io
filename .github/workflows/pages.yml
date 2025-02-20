@@ -51,6 +51,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
+          name: github-pages
 
   # Deployment job
   deploy:
@@ -62,7 +63,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
         env:
