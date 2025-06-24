@@ -6,3 +6,5 @@ Gemfile.lock
 .idea/
 .idea/*
 .idea/*/*
+.vscode/
+.vscode/*

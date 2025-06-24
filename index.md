@@ -3,40 +3,71 @@ layout: default
 title: Home
 ---
 
-# A bit about me
+# About Me
 
-I am a computational astrophysicist. I currently work as **Software Engineer** at [Mindex](https://www.mindex.com).
+I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics and ecological modeling, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems—from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
 
-I studied Physics at the [Autonomous University of the State of Mexico](http://web.uaemex.mx/fciencias/) (Mexico). I graduated developing a numerical solver for the geodesics equation. During my master studies at the [University of Michoacan](http://www.ifm.umich.mx/ifm/) (Mexico), specializing on numerical hydrodynamics in GR developing a relativistic SPH code. I did my PhD studies at the [University of Valencia](https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament-astronomia-astrofisica-1285854555555.html) (Spain) under the supervision of [Prof. Miguel A. Aloy](https://www.uv.es/camap/aloy.html) and Dr. Petar Mimica. My main research was around numerical modeling of high energy radiation in magnetized plasma, particularly studying flares in blazars.
+## Contact
 
-After that I became a Postdoctoral Fellow at [Purdue University](http://physics.purdue.edu/), under the mentorship of [Prof. Dimitrios Giannios](http://www.physics.purdue.edu/giannios/). There I worked on modeling particle acceleration processes and high-energy radiation in relativistic outflows. For this I developed a numerical code that is capable of revealing the effects of the interaction of particles and radiation in plasma undergoing magnetic reconnection, shocks, turbulence, etc.
-
-Right after that, I started working as a Postdoctoral Research Assistant at the [CCRG](https://ccrg.rit.edu) at [RIT](https://www.rit.edu), under the mentorshiip of [Prof. Manuela Campanelli](https://ccrg.rit.edu/user/manuela.campanelli). I worked on simulations of supermassive black hole binaries approaching merger, studying their accretion disk dynamics and calculating their photon spectral and timing signatures, including jet formation. To acheive this I make use of the numerical code **Harm3D**, and the **PatchworkMHD** infrastructure.
-
-Beyond astrophysics, science and computers, I love hiking and climbing. In other words: I love the mountains. I go outdoors whenever I get the chance. If not, the best approximation to that is walking down the street and going to the climbing gym, which I also enjoy greatly. I am a dinosaur enthusiast. I love learning about those amazing, and unfortunately extinct, beings.
-
-<!-- I also like watching movies an series. I do not know if a series has a very good production or not, but I like to analyze them from a sociological and scientific point of view. I know that movies are movies. I know what fiction means, but I have found it as a very good excercise to reinforce skepticism. -->
-
-### Where to find me in social media
-
+- **Email:** [jm.ruebe@gmail.com](mailto:jm.ruebe@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jeruebe)
 - [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
+- [GitHub](https://www.github.com/altjerue)
+- [ORCID](https://orcid.org/0000-0003-1988-1912)
 
-### What I'm reading
+## Resume
 
-- *La región más transparente* - Carlos Fuentes
-- *Moby-Dick; or, The Whale* - Herman Melville (audiobook)
-- *Las venas abiertas de América Latina* - Eduardo Galeano (audiobook)
+- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-resume.pdf)
+- [Full CV (en)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
+- [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf)
 
+## Academic Background
 
-<!-- ## In the mortar for sauces
+- **Ph.D. in Physics** — Universitat de València, Spain (2017, *Cum Laude*). Advisors: Prof. Miguel A. Aloy & Dr. Petar Mimica. [Thesis](http://roderic.uv.es/handle/10550/60003)
+- **M.Sc. in Physics** — Universidad Michoacana de San Nicolás de Hidalgo, Mexico (2011)
+- **B.Sc. in Physics** — Universidad Autónoma del Estado de México, Mexico (2009)
 
-*In the mortar for souces* used to be the name of a [project of blog](/mortar/) that I started long ago. It is tradition in mexican families to prepare (hot) sauces with a mortar and pestle made of volcanic stone. It is a tough task smashing all the ingredients, to estimate the correct amount of them in order to get a tasty hot sauce, yet the experience of preparing the sauce in a mortar is at the same time relaxing since you have to exert pressure on it. Ergo everything that happened to you during the day will affect the final result. That is why it is said that if the lady that prepared the sauce (women used to be the ones that had to prepare the sauce) was angry, the hotness of it was extreme. So it is recommended not to make angry to the "sauce-erer" until the sauce is on the table.
+## Research & Professional Experience
 
-It is also true that it would be easier to prepare sauces with the blender. However the taste of anything you eat depends on the way you prepare it. That happens to bread, for instance, and so it happens to sauce. And not only the taste changes from a blender sauce but the consistency. From a blender you get a watery substance, while in a mortar-made sauce you may find small pieces of the ingredients like tomato, chilly, coriander, etc. Not to mention the control in the quantity of the ingredients, which is such a subjective topic that depends on the person who is preparing the sauce.
+- **Spatial Data Scientist** — Tealwaters, USA (May 2025–Present)
+  - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
+  - Apply remote sensing and geospatial analysis to ecological modeling, focusing on wetland restoration and environmental impact.
+  - Bridge astrophysics and environmental science by leveraging expertise in high-performance computing, statistical modeling, and machine learning to analyze complex environmental datasets.
+- **Software Engineer** — Paychex, USA (Apr 2022–Jan 2024)
+  - Developed and maintained internal tools using Java, Python, and SQL.
+  - Collaborated with cross-functional teams to automate workflows and improve data pipelines.
+- **Postdoctoral Research Associate** — Purdue University, USA (Feb 2021–Apr 2022)
+  - Modeled particle acceleration and high-energy radiation in relativistic outflows using the Fortran code `Paramo`.
+  - Investigated plasma processes such as magnetic reconnection, shocks, and turbulence.
+- **Postdoctoral Research Fellow** — Purdue University, USA (Oct 2018–Nov 2020)
+- **Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo, Mexico (Jan–Sep 2018)
+- **Postdoctoral Research Assistant** — RIT, USA (2016–2017)
+  - Simulated supermassive black hole binaries, accretion disk dynamics, and jet formation using **Harm3D** and **PatchworkMHD**.
 
-And just like sauce are the things that one deals with day by day. What you learn during your every day life are the ingredients, your spirit is the chilly. It is yourself who decides what the out coming sauce will look like, if you share it or use it for yourself, if it will be sweet, hot or hotter.
+## Technical Skills
 
-This blog is more or less the result of the "sauce" that gives taste to my everyday learning. Mostly all the things that I like most which are physics, astrophysics and maths. Hope it will be helpful to someone sometime.
+- **Programming Languages:** Fortran, Python, Shell, C/C++, R, Julia, SQL (PL/SQL, PostgreSQL), Rust, Java, MongoDB
+- **Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter
+- **Miscellaneous:** Git (GitHub, Bitbucket), LaTeX, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, Visit, Paraview, Job Scheduling (SLURM, PBS)
 
-## La mula parda -->
+## Selected Skills
+
+- Computational modeling & simulation
+- Data analysis & visualization
+- Geospatial analysis (GIS)
+- Scientific communication
+
+## Publications
+
+- [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+- [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M)
+- [Google Scholar](https://scholar.google.com/citations?user=hrld5zgAAAAJ)
+
+## Personal Interests
+
+Beyond astrophysics, science, and computers, I love hiking and climbing—mountains are my favorite place to be. I am also a dinosaur enthusiast and enjoy learning about these fascinating, extinct creatures.
+
+## Languages
+
+- Spanish: native proficiency
+- English: full professional proficiency
