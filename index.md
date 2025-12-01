@@ -5,13 +5,15 @@ title: Home
 
 # A bit about me
 
-I am a computational astrophysicist. I currently work as **Software Engineer** at [Mindex](https://www.mindex.com).
+I am a computational astrophysicist. I currently work as **Spatial Data Scientist** at [TealWaters](https://www.tealwaters.com). My main role is to develop spatial data analysis pipelines and machine learning models to extract insights from geospatial datasets using topographic and satellite imagery, machine learning, hydrology, geomorpohology. I work with Fortran, Python, and GIS tools to produce wetland mappings.
 
 I studied Physics at the [Autonomous University of the State of Mexico](http://web.uaemex.mx/fciencias/) (Mexico). I graduated developing a numerical solver for the geodesics equation. During my master studies at the [University of Michoacan](http://www.ifm.umich.mx/ifm/) (Mexico), specializing on numerical hydrodynamics in GR developing a relativistic SPH code. I did my PhD studies at the [University of Valencia](https://www.uv.es/uvweb/departament-astronomia-astrofisica/ca/departament-astronomia-astrofisica-1285854555555.html) (Spain) under the supervision of [Prof. Miguel A. Aloy](https://www.uv.es/camap/aloy.html) and Dr. Petar Mimica. My main research was around numerical modeling of high energy radiation in magnetized plasma, particularly studying flares in blazars.
 
 After that I became a Postdoctoral Fellow at [Purdue University](http://physics.purdue.edu/), under the mentorship of [Prof. Dimitrios Giannios](http://www.physics.purdue.edu/giannios/). There I worked on modeling particle acceleration processes and high-energy radiation in relativistic outflows. For this I developed a numerical code that is capable of revealing the effects of the interaction of particles and radiation in plasma undergoing magnetic reconnection, shocks, turbulence, etc.
 
 Right after that, I started working as a Postdoctoral Research Assistant at the [CCRG](https://ccrg.rit.edu) at [RIT](https://www.rit.edu), under the mentorshiip of [Prof. Manuela Campanelli](https://ccrg.rit.edu/user/manuela.campanelli). I worked on simulations of supermassive black hole binaries approaching merger, studying their accretion disk dynamics and calculating their photon spectral and timing signatures, including jet formation. To acheive this I make use of the numerical code **Harm3D**, and the **PatchworkMHD** infrastructure.
+
+After many years working on amazing projects, I ventured to explore the private sector and joined [Mindex](https://www.mindex.com) as a  **Software Engineer**. There I worked on developing backend services for payroll and human resources applications. I mainly worked with Java and Spring Boot framework, building RESTful APIs, integrating with databases, and ensuring the scalability and performance of the applications.
 
 Beyond astrophysics, science and computers, I love hiking and climbing. In other words: I love the mountains. I go outdoors whenever I get the chance. If not, the best approximation to that is walking down the street and going to the climbing gym, which I also enjoy greatly. I am a dinosaur enthusiast. I love learning about those amazing, and unfortunately extinct, beings.
 

@@ -25,6 +25,9 @@ Mi [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerr
 
 ## Previous Positions
 
+**Spacial Data Scientist**, May 2025 – Present\
+Tealwaters, USA
+
 **Software Engineer**, Apr 2022 – Jan 2024\
 Paychex, USA
 
@@ -95,4 +98,3 @@ PI: Giannios, D., Co-I: **Rueda-Becerril, J. M.**
 ## Languages
 - *Spanish*: native proficiency
 - *English*: full professional proficiency
-- *Catalan*: professional working proficiency
