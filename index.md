@@ -9,7 +9,7 @@ I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data sc
 
 ## Contact
 
-- **Email:** [jm.ruebe@gmail.com](mailto:jm.ruebe@gmail.com)
+- [Email](mailto:jm.ruebe@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/jeruebe)
 - [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 - [GitHub](https://www.github.com/altjerue)
@@ -19,7 +19,7 @@ I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data sc
 
 - [Resume (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-resume.pdf)
 - [Full CV (en)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
-- [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf)
+<!-- - [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf) -->
 
 ## Academic Background
 
