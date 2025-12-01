@@ -25,7 +25,7 @@ My [ORCID](https://orcid.org/0000-0003-1988-1912)
 
 ## Previous Positions
 
-**Space Data Scientist**, May 2025 - Present\
+**Spatial Data Scientist**, May 2025 – Present\
 Tealwaters, USA
 
 **Software Engineer**, Apr 2022 – Jan 2024\
@@ -57,8 +57,8 @@ Universidad Autónoma del Estado de México, Mexico
 ## Technical skills
 
 **Programming Languages:** Fortran, Python, Shell, C/C++, R, Julia, SQL (PL/SQL, PostgreSQL), Rust, Java, MongoDB\
-**Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter\
-**Miscellaneous:** Git (GitHub, Bitbucket), LaTeX, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, Visit, Paraview, Job Scheduling (SLURM, PBS)
+**Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter, Xarray, GeoPandas, Dask\
+**Miscellaneous:** QGIS, Git (GitHub, Bitbucket), LaTeX, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, Visit, Paraview, Job Scheduling (SLURM, PBS)
 
 ## Publications
 
@@ -99,5 +99,3 @@ PI: Giannios, D., Co-I: **Rueda-Becerril, J. M.**
 ## Languages
 - *Spanish*: native proficiency
 - *English*: full professional proficiency
-- *Catalan*: professional working proficiency
--->
