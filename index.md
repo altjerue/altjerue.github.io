@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics and ecological modeling, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems—from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
+I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems—from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
 
 ## Contact
 
@@ -29,20 +29,19 @@ I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data sc
 
 ## Research & Professional Experience
 
-- **Spatial Data Scientist** — Tealwaters, USA (May 2025–Present)
+- **Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025–Present)
   - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
   - Apply remote sensing and geospatial analysis to ecological modeling, focusing on wetland restoration and environmental impact.
   - Bridge astrophysics and environmental science by leveraging expertise in high-performance computing, statistical modeling, and machine learning to analyze complex environmental datasets.
-- **Software Engineer** — Paychex, USA (Apr 2022–Jan 2024)
+- **Software Engineer** — Paychex, Rochester, NY, USA (Apr 2022–Jan 2024)
   - Developed and maintained internal tools using Java, Python, and SQL.
   - Collaborated with cross-functional teams to automate workflows and improve data pipelines.
-- **Postdoctoral Research Associate** — Purdue University, USA (Feb 2021–Apr 2022)
+- **Postdoctoral Research Associate** — Rochester Institute of Technology, Rochester, NY, USA (Feb 2021–Apr 2022)
   - Modeled particle acceleration and high-energy radiation in relativistic outflows using the Fortran code `Paramo`.
   - Investigated plasma processes such as magnetic reconnection, shocks, and turbulence.
-- **Postdoctoral Research Fellow** — Purdue University, USA (Oct 2018–Nov 2020)
-- **Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo, Mexico (Jan–Sep 2018)
-- **Postdoctoral Research Assistant** — RIT, USA (2016–2017)
   - Simulated supermassive black hole binaries, accretion disk dynamics, and jet formation using **Harm3D** and **PatchworkMHD**.
+- **Postdoctoral Research Fellow** — Purdue University, West Lafayette, IN, USA (Oct 2018–Nov 2020)
+- **Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Mich., Mexico (Jan–Sep 2018)
 
 ## Technical Skills
 
