@@ -47,10 +47,11 @@ I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data sc
 
 - **Programming Languages:** Fortran, Python, Shell, C/C++, R, Julia, SQL (PL/SQL, PostgreSQL), Rust, Java, MongoDB
 - **Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter
-- **Miscellaneous:** Git (GitHub, Bitbucket), LaTeX, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, Visit, Paraview, Job Scheduling (SLURM, PBS)
+- **Miscellaneous:** Git (GitHub, Bitbucket), LaTeX, QGIS, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, Visit, Paraview, Job Scheduling (SLURM, PBS)
 
 ## Selected Skills
 
+- Data science & machine learning
 - Computational modeling & simulation
 - Data analysis & visualization
 - Geospatial analysis (GIS)
@@ -70,3 +71,5 @@ Beyond astrophysics, science, and computers, I love hiking and climbing—mounta
 
 - Spanish: native proficiency
 - English: full professional proficiency
+- Nahuatl: basic knowledge
+- Catalan: basic knowledge
