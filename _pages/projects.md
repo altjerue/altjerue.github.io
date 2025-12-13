@@ -16,7 +16,7 @@ title: Projects
 
 ## [Wind and Spores](https://github.com/UW-ForestMycobiomeLab/WindSporesHills)  | Aug 2024 -- May 2025
 
-- Open Source Code for Dispersion of Spores in Hilly Terrains.
+- Open source R package for dispersion of spores in hilly terrains.
 - Simulate the dispersion of spores in hilly terrains in R and C++.
 
 **Used:** C++, Git, R: RStudio, Rcpp, ggplot2, dplyr, tidyr
@@ -53,40 +53,18 @@ title: Projects
 - Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2022). "Balancing turbulent heating with radiative cooling in blazars ". *Monthly Notices of the Royal Astronomical Society*, 513(4), 5766-5779. [DOI:10.1093/mnras/stac1282](https://doi.org/10.1093/mnras/stac1282)
 - Combi, L., Siegel, D.M. (2023). "GRMHD Simulations of Mergers with Weak Interactions: r-process Nucleosynthesis and Electromagnetic Signatures of Dynamical Ejecta". *The Astrophysical Journal*, 944(1), 29. [DOI:10.3847/1538-4357/acac29](https://doi.org/10.3847/1538-4357/acac29)
 
-<!-- 
-# Code Development
+# Portfolio
 
-+ [PypersPlots](https://altjerue.github.io/PypersPlots)
-+ [emacs-init-file](https://altjerue.github.io/emacs-init-file)
+## GitHub
 
- - Theory and observation of high energy radiation in different scenarios where black holes are involved
-  - Radiation transport
-  - Radiation source and source region
-  - Particles acceleration processes
-- Active galactic nuclei
-  - Blazars
-    - Acceleration processes in the emission region
-    - Location of the emission region
-    - The spectral effects due to different constituents of the material in the emission region
-  - Radio galaxies
-  - Quasars
-  - Tidal disruption events
-- Microquasars
-- Gamma-ray bursts
-- Pulsars
-- X-ray binaries
+I have a [GitHub portfolio](https://github.com/altjerue/Portfolio/tree/main) that you are welcome to check out!
 
-- Numerical solutions to the radiation transport equation with astrophysical applications.
-- Numerical treatment of the microphysics involved in the emission of high energy radiation.
-- Numerical hydrodynamics and magnetohydrodynamics.
-- Performance, stability, convergence and accuracy of numerical codes.
+## Tonalpowalli
 
-- Solutions to the Einstein equations
+I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the mexihkah count of the days) project (*in progress*).
 
-### Computer Sciences
-- Decision-making optimization.
-- Machine learning (supervised and unsupervised).
-- Neuronal networks.
-- Text mining.
-- Network analysis. 
--->
+## Gists
+
+I have a [collection of GitHubGists](https://gist.github.com/altjerue) that you can explore.
+
+
