@@ -17,8 +17,8 @@ I am a data scientist passionate about solving complex problems at the intersect
 
 ## Resume
 
-- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-resume.pdf)
-- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
+- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/RuedaBecerrilJM-resume.pdf)
+- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/RuedaBecerrilJM-CV.pdf)
 <!-- - [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf) -->
 
 ## Education
