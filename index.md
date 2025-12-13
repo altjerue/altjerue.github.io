@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am Jesús M. Rueda-Becerril, Ph.D., a computational astrophysicist and data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems—from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
+I am a computational astrophysicist and data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems—from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
 
 ## Contact
 
