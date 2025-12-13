@@ -7,13 +7,27 @@ title: Home
 
 I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
 
+## Selected Skills
+
+- Data science & machine learning
+- Computational modeling & simulation
+- Data analysis & visualization
+- Geospatial analysis
+- Scientific communication
+
+## Resume
+
+- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-resume.pdf)
+- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
+<!-- - [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf) -->
+
 ## Education
 
 - **Ph.D. in Physics** — Universitat de València, Spain (2017, *Cum Laude*). Advisors: Prof. Miguel A. Aloy & Dr. Petar Mimica. [Thesis](http://roderic.uv.es/handle/10550/60003)
 - **M.Sc. in Physics** — Universidad Michoacana de San Nicolás de Hidalgo, Mexico (2011)
 - **B.Sc. in Physics** — Universidad Autónoma del Estado de México, Mexico (2009)
 
-## Research & Professional Experience
+## Professional Experience
 
 **Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Present)
 - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
@@ -21,10 +35,10 @@ I am a data scientist passionate about solving complex problems at the intersect
 - Bridge astrophysics and environmental science by leveraging expertise in high-performance computing, statistical modeling, and machine learning to analyze complex environmental datasets.
 
 **Open-Source Developer** — Independent Research, Seattle, WA, USA (Jan 2024 - May 2025)
-- [`Tleco`](./_pages/projects.md#tleco)
+- [`Tleco`](https://altjerue.github.io/projects#tleco)
   - Simulates relativistic plasma particles and radiation rise from accelerating particles.
   - Combines Rust and Python functions from the Fortran code `Paramo`.
-- [`WindsOfChange`](./_pages/projects.md#windsofchange)
+- [`WindsOfChange`](https://altjerue.github.io/projects/#windsofchange)
   - Simulate spore dispersion in hilly terrains using R and C++.
 
 **Software Engineer** — Paychex, Rochester, NY, USA (Apr 2022 - Jan 2024)
@@ -45,14 +59,6 @@ I am a data scientist passionate about solving complex problems at the intersect
 - **Programming Languages:** Fortran, Python, Shell, C/C++, R, Julia, SQL, Rust, Java
 - **Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter
 - **Miscellaneous:** Git (GitHub, Bitbucket), $\LaTeX$, QGIS, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, MongoDB, Visit, Paraview, Job Scheduling (SLURM, PBS)
-
-## Selected Skills
-
-- Data science & machine learning
-- Computational modeling & simulation
-- Data analysis & visualization
-- Geospatial analysis
-- Scientific communication
 
 ## Publications
 
@@ -78,10 +84,3 @@ Beyond astrophysics, science, and computers, I love hiking and climbing—mounta
 - [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 - [GitHub](https://www.github.com/altjerue)
 - [ORCID](https://orcid.org/0000-0003-1988-1912)
-
-## Resume
-
-- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-resume.pdf)
-- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CV.pdf)
-<!-- - [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf) -->
-
