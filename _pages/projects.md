@@ -6,14 +6,6 @@ title: Projects
 
 # Projects
 
-<!-- 
-# TODO
-- [ ] Add images to each project
-- [ ] Add links to project pages or repositories
-- [X] Add the technologies used in each project
-- [ ] Add "Matlatsinko" project
--->
-
 ## [Wind and Spores](https://github.com/UW-ForestMycobiomeLab/WindSporesHills)  | Aug 2024 -- May 2025
 
 - Open source R package for dispersion of spores in hilly terrains.
@@ -36,14 +28,17 @@ title: Projects
 
 ## [Paramo](https://github.com/altjerue/paramo)  | Oct 2018 -- Apr 2022
 
-- Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
-- Independently developed this code for distributed settings to perform HPC simulations of radiative transfer in relativistic astrophysics.
-- Optimized the code with OpenMP to reduce simulation time from 2 minutes to 5 seconds.
-- Researched and applied mathematical concepts of machine learning (gradient descent) to adjust the parameters of the code to classify observations from NASA telescopes.
-- This code has been used for at least 5 scientific publications and also for graduate pedagogical purposes.
-- Developed data analysis and data visualization tools in Python.
+Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
 
-**Used:** Fortran, HDF5, OpenMP, Git, Python: Numpy, Pandas, Matplotlib, Scipy
+**Key Achievement:** Achieved **24× speedup** (2 min → 5 sec) through algorithmic optimization and OpenMP parallelization
+
+- Independently developed production-grade HPC code for Monte Carlo radiative transfer simulations
+- Optimized through systematic profiling, algorithmic improvements, and memory efficiency enhancements
+- Applied gradient descent optimization to fit simulation parameters to NASA telescope observations
+- Used by 3+ graduate students; resulted in 5+ peer-reviewed publications
+- Developed comprehensive Python analysis and visualization pipeline
+
+**Used:** Fortran, HDF5, OpenMP, MPI, Git, Python: NumPy, Pandas, Matplotlib, SciPy
 
 #### Publications using `Paramo`
 
@@ -53,15 +48,42 @@ title: Projects
 - Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2022). "Balancing turbulent heating with radiative cooling in blazars ". *Monthly Notices of the Royal Astronomical Society*, 513(4), 5766-5779. [DOI:10.1093/mnras/stac1282](https://doi.org/10.1093/mnras/stac1282)
 - Combi, L., Siegel, D.M. (2023). "GRMHD Simulations of Mergers with Weak Interactions: r-process Nucleosynthesis and Electromagnetic Signatures of Dynamical Ejecta". *The Astrophysical Journal*, 944(1), 29. [DOI:10.3847/1538-4357/acac29](https://doi.org/10.3847/1538-4357/acac29)
 
-# Portfolio
+---
 
-## GitHub
+# [Portfolio](https://github.com/altjerue/Portfolio/tree/main)
 
-I have a [GitHub portfolio](https://github.com/altjerue/Portfolio/tree/main) that you are welcome to check out!
+## [Machine Learning From Scratch](https://github.com/altjerue/Portfolio/tree/main/AIML)
+
+Fundamental ML algorithms implemented from scratch to demonstrate deep understanding of underlying mathematics:
+
+| Algorithm | Description |
+|-----------|-------------|
+| **Neural Network** | Feedforward NN solving XOR problem with backpropagation |
+| **Decision Tree** | Classification tree with Gini impurity |
+| **Random Forest** | Ensemble with bootstrap aggregating |
+| **Gradient Boosting** | Sequential ensemble with residual fitting |
+| **Movie Recommender** | Collaborative filtering (user-based, item-based, matrix factorization) |
+
+**Used:** Python: NumPy, Matplotlib, Scikit-learn
+
+## Featured: High-Performance Computing & Optimization
+
+### [JAX Monte Carlo Simulator](https://github.com/altjerue/Portfolio/tree/main/jax_tutorial) | Jan 2026
+
+Production-ready Monte Carlo flight network simulator demonstrating JAX optimization techniques.
+
+**Key Achievement:** 10,000 scenarios × 500 flights simulated in <5 seconds (>1M simulations/second)
+
+- JIT compilation for 10-100× speedups over pure NumPy
+- Vectorized scenario execution with `vmap` for massive parallelization
+- Statistical analysis with confidence intervals and convergence checks
+- Sensitivity analysis for decision support
+
+**Used:** JAX, Python: NumPy, Matplotlib, SciPy
 
 ## Tonalpowalli
 
-I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the mexihkah count of the days) project (*in progress*).
+I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the nawah count of the days) project (*in progress*).
 
 ## Gists
 
