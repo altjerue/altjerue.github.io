@@ -66,7 +66,7 @@ Fundamental ML algorithms implemented from scratch to demonstrate deep understan
 
 **Used:** Python: NumPy, Matplotlib, Scikit-learn
 
-## Featured: High-Performance Computing & Optimization
+<!-- ## Featured: High-Performance Computing & Optimization
 
 ### [JAX Monte Carlo Simulator](https://github.com/altjerue/Portfolio/tree/main/jax_tutorial) | Jan 2026
 
@@ -79,7 +79,7 @@ Production-ready Monte Carlo flight network simulator demonstrating JAX optimiza
 - Statistical analysis with confidence intervals and convergence checks
 - Sensitivity analysis for decision support
 
-**Used:** JAX, Python: NumPy, Matplotlib, SciPy
+**Used:** JAX, Python: NumPy, Matplotlib, SciPy -->
 
 ## Tonalpowalli
 
