@@ -81,6 +81,39 @@ Production-ready Monte Carlo flight network simulator demonstrating JAX optimiza
 
 **Used:** JAX, Python: NumPy, Matplotlib, SciPy -->
 
+## DataCamp
+
+Applied data science projects completed through DataCamp courses:
+
+| Project | Topic | Description |
+|---------|-------|-------------|
+| [Avocado Toast Analysis](https://github.com/altjerue/Portfolio/tree/main/DataCamp/avocado_toast) | Exploratory Data Analysis | Price and trend analysis of avocado-related datasets with visualization |
+| [Nobel Prizes](https://github.com/altjerue/Portfolio/tree/main/DataCamp/nobel_prizes) | Historical Data Analysis | Examining Nobel Prize award data, winners, and trends over time |
+| [Oldest Businesses](https://github.com/altjerue/Portfolio/tree/main/DataCamp/oldest_businesses) | Business & History | World's oldest businesses: longevity, characteristics, and geographic distribution |
+| [Sleep Data Analysis](https://github.com/altjerue/Portfolio/tree/main/DataCamp/sleep) | Health & Predictive Modeling | Sleep disorder prediction and health metrics analysis |
+
+**Used:** Python: Pandas, NumPy, Matplotlib, Seaborn
+
+## Kaggle
+
+| Project | Competition / Dataset | Description |
+|---------|----------------------|-------------|
+| [Titanic — A Study of a Shipwreck](https://github.com/altjerue/Portfolio/blob/main/Kaggle/Getting_Started_with_Titanic.ipynb) | [Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) | Binary classification to predict passenger survival; female survival rate 74.2% vs. male 18.9% |
+| [Telco Customer Churn](https://github.com/altjerue/Portfolio/blob/main/Kaggle/Telco_churn.ipynb) | [Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) | Predict which telecom customers are likely to churn; EDA + model comparison across 7 classifiers on 7K records |
+
+**Used:** Python: Pandas, Scikit-learn (Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, SVM), XGBoost
+
+## Templates
+
+Reusable Jupyter notebook templates for standard data science workflows, available in the [Templates](https://github.com/altjerue/Portfolio/tree/main/Templates) directory:
+
+| Template | Purpose |
+|----------|---------|
+| [Data Cleaning](https://github.com/altjerue/Portfolio/blob/main/Templates/DataCleaning_template.ipynb) | Data quality checks and cleaning workflows |
+| [Data Querying](https://github.com/altjerue/Portfolio/blob/main/Templates/DataQuerying.ipynb) | Data retrieval and querying operations |
+| [EDA](https://github.com/altjerue/Portfolio/blob/main/Templates/EDA_template.ipynb) | Exploratory data analysis and visualization |
+| [ML Preprocessing](https://github.com/altjerue/Portfolio/blob/main/Templates/ML_preprocessing_template.ipynb) | Feature engineering and preprocessing for ML models |
+
 ## Tonalpowalli
 
 I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the nawah count of the days) project (*in progress*).
