@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and ecology.
+I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and the environment.
 
 ## Selected Skills
 
@@ -29,34 +29,36 @@ I am a data scientist passionate about solving complex problems at the intersect
 
 ## Professional Experience
 
-**Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Present)
+**Independent Contractor** - Mercor (Jan 2026 — Present)
+
+**Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Jan 2026)
 - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
 - Apply remote sensing and geospatial analysis to ecological modeling, focusing on wetland restoration and environmental impact.
 - Bridge astrophysics and environmental science by leveraging expertise in high-performance computing, statistical modeling, and machine learning to analyze complex environmental datasets.
 
-**Open-Source Developer** — Independent Research, Seattle, WA, USA (Jan 2024 - May 2025)
+**Open-Source Developer** — Independent Research (Jan 2024 - May 2025)
 - [`Tleco`](https://altjerue.github.io/projects#tleco)
   - Simulates relativistic plasma particles and radiation rise from accelerating particles.
   - Combines Rust and Python functions from the Fortran code `Paramo`.
 - [`WindsOfChange`](https://altjerue.github.io/projects/#windsofchange)
   - Simulate spore dispersion in hilly terrains using R and C++.
 
-**Software Engineer** — Paychex, Rochester, NY, USA (Apr 2022 - Jan 2024)
+**Software Engineer** — Paychex (Apr 2022 - Jan 2024)
 - Developed and maintained internal tools using Java, Python, and SQL.
 - Collaborated with cross-functional teams to automate workflows and improve data pipelines.
 
-**Postdoctoral Research Associate** — Rochester Institute of Technology, Rochester, NY, USA (Feb 2021 - Apr 2022)
+**Postdoctoral Research Associate** — Rochester Institute of Technology (Feb 2021 - Apr 2022)
 - Modeled particle acceleration and high-energy radiation in relativistic outflows using the Fortran code `Paramo`.
 - Investigated plasma processes such as magnetic reconnection, shocks, and turbulence.
 - Simulated supermassive black hole binaries, accretion disk dynamics, and jet formation using **Harm3D** and **PatchworkMHD**.
 
-**Postdoctoral Research Fellow** — Purdue University, West Lafayette, IN, USA (Oct 2018 - Nov 2020)
+**Postdoctoral Research Fellow** — Purdue University (Oct 2018 - Nov 2020)
 
-**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo, Morelia, Mich., Mexico (Jan - Sep 2018)
+**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo(Jan - Sep 2018)
 
 ## Technical Skills
 
-- **Programming Languages:** Fortran, Python, Shell, C/C++, R, Julia, SQL, Rust, Java
+- **Programming Languages:** Python, C/C++, R, Fortran, Shell, Julia, SQL, Rust, Java
 - **Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter
 - **Miscellaneous:** Git (GitHub, Bitbucket), $\LaTeX$, QGIS, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, MongoDB, Visit, Paraview, Job Scheduling (SLURM, PBS)
 
@@ -68,7 +70,7 @@ I am a data scientist passionate about solving complex problems at the intersect
 
 ## Personal Interests
 
-Beyond astrophysics, science, and computers, I love hiking and climbing—mountains are my favorite place to be. I am also a dinosaur enthusiast and enjoy learning about these fascinating, extinct creatures.
+Beyond astrophysics, science, the environment, and computers, hiking and climbing mountains are my favorite place to be.
 
 ## Languages
 

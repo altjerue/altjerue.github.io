@@ -6,12 +6,21 @@ title: Projects
 
 # Projects
 
-## [Wind and Spores](https://github.com/UW-ForestMycobiomeLab/WindSporesHills)  | Aug 2024 -- May 2025
+## [Blazars Population ML](http://github.com/altjerue/ilwikak-ml) | Jan 2026 -- Present
 
-- Open source R package for dispersion of spores in hilly terrains.
-- Simulate the dispersion of spores in hilly terrains in R and C++.
+- Applying classical ML and Bayesian inference to the [Fermi-LAT 4LAC-DR3](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermilac.html) catalog (3,407 sources) to recover physical jet parameters from multi-wavelength observational data.
+- Building a neural network to learn the mapping from physical jet parameters to observable SEDs accurately enough to compare with Tleco results.
+- Developing a forecasting model for blazar gamma-ray flares using a general-purpose time series foundation model, fine-tuned with Tleco-generated synthetic light curves.
 
-**Used:** C++, Git, R: RStudio, Rcpp, ggplot2, dplyr, tidyr
+**Used:** Git, Python: Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, PyTorch, Pytest, Jupyter
+
+## [Wind and Spores](https://github.com/UW-ForestMycobiomeLab/WindSporesHills)  | Aug 2024 -- Present
+
+- Open source R & C++ package for dispersion of spores in hilly terrains.
+- Implemented Lagrangian particle dispersion, atmospheric turbulence, and fluid flow over complex hilly terrain with forest canopy, based on analytical models.
+- Parallelized particle tracking using RcppParallel and OpenMP. Designed for scalability to tens of thousands of particles across kilometer-scale domains.
+
+**Used:** C++, OpenMP, Git, R: RStudio, Rcpp, ggplot2, dplyr, tidyr, RcppParallel
 
 ## [Tleco](https://github.com/zkdavis/Tleco)  | Jan 2024 -- Sep 2024
 
@@ -29,8 +38,6 @@ title: Projects
 ## [Paramo](https://github.com/altjerue/paramo)  | Oct 2018 -- Apr 2022
 
 Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
-
-**Key Achievement:** Achieved **24× speedup** (2 min → 5 sec) through algorithmic optimization and OpenMP parallelization
 
 - Independently developed production-grade HPC code for Monte Carlo radiative transfer simulations
 - Optimized through systematic profiling, algorithmic improvements, and memory efficiency enhancements
@@ -62,7 +69,7 @@ Fundamental ML algorithms implemented from scratch to demonstrate deep understan
 | **Decision Tree** | Classification tree with Gini impurity |
 | **Random Forest** | Ensemble with bootstrap aggregating |
 | **Gradient Boosting** | Sequential ensemble with residual fitting |
-| **Movie Recommender** | Collaborative filtering (user-based, item-based, matrix factorization) |
+| **Movie Recommender (WIP)** | Collaborative filtering (user-based, item-based, matrix factorization) |
 
 **Used:** Python: NumPy, Matplotlib, Scikit-learn
 
@@ -114,9 +121,9 @@ Reusable Jupyter notebook templates for standard data science workflows, availab
 | [EDA](https://github.com/altjerue/Portfolio/blob/main/Templates/EDA_template.ipynb) | Exploratory data analysis and visualization |
 | [ML Preprocessing](https://github.com/altjerue/Portfolio/blob/main/Templates/ML_preprocessing_template.ipynb) | Feature engineering and preprocessing for ML models |
 
-## Tonalpowalli
+## Tonalpowalli (WIP)
 
-I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the nawah count of the days) project (*in progress*).
+I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my tonalpowalli (the mexihkah count of the days) project (*in progress*).
 
 ## Gists
 
