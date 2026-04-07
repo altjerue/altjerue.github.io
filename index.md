@@ -30,6 +30,9 @@ I am a data scientist passionate about solving complex problems at the intersect
 ## Professional Experience
 
 **Independent Contractor** - Mercor (Jan 2026 — Present)
+- Provide expert-level knowledge in Physics, Astrophysics, and Mathematics to improve models for top AI research labs
+- Assess model reasoning quality, identify failure modes, and provide structured feedback to improve scientific accuracy
+- Apply understanding of mathematical foundations to benchmark model performance on complex STEM problems
 
 **Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Jan 2026)
 - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
