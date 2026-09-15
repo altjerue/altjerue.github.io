@@ -9,7 +9,14 @@ title: Jesus M Rueda-Becerril, PhD
 logo: /images/Redwood.jpg
 # show_downloads: false
 name: Jesus M. Rueda-Becerril
-description: Welcome to my personal webpage
+description: Computational Scientist — Physics, Machine Learning & Geospatial Data
+
+# Social preview image (used by jekyll-seo-tag's og:image / twitter:image on every page)
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/Redwood.jpg
 
 author:
   email: jm.ruebe@gmail.com

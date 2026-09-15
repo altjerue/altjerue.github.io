@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software engineering, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which continues to fuel my applied research in environmental and physical systems.
+I am a computational scientist with a Ph.D. in Physics and 10+ years developing high-performance numerical algorithms and physics-based simulation software. My expertise spans multiscale/multiphysics modeling, scientific computing, and scientific machine learning, with a track record of publishing peer-reviewed research, obtaining competitive grants, and collaborating across interdisciplinary teams to solve complex computational problems in physics. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which continues to fuel my applied research in environmental and physical systems.
 
 ## Selected Skills
 
