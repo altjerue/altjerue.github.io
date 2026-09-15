@@ -24,7 +24,7 @@ title: Projects
 
 ## [Tleco](https://github.com/zkdavis/Tleco)  | Jan 2024 -- Sep 2024
 
-- `Tleco` stands for both *in the fire* and *rise* in the nahuatl language.
+- `Tleco` stands for both *in the fire* and *rise* in the Nahuatl language.
 - Open Source Code for Simulation of Relativistic Particles Radiation
 - Numerical code that simulates particles in relativistic plasma, and the rise of radiation from accelerating particles.
 - Consists of both Rust functions and Python functions previously built in the Fortran code `Paramo`.
@@ -39,11 +39,11 @@ title: Projects
 
 Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
 
-- Independently developed production-grade HPC code for Monte Carlo radiative transfer simulations
-- Optimized through systematic profiling, algorithmic improvements, and memory efficiency enhancements
-- Applied gradient descent optimization to fit simulation parameters to NASA telescope observations
-- Used by 3+ graduate students; resulted in 5+ peer-reviewed publications
-- Developed comprehensive Python analysis and visualization pipeline
+- Independently developed production-grade HPC code for Monte Carlo radiative transfer simulations.
+- Optimized through systematic profiling, algorithmic improvements, and memory efficiency enhancements.
+- Applied gradient descent optimization to fit simulation parameters to NASA telescope observations.
+- Used by 3+ graduate students; resulted in 5+ peer-reviewed publications.
+- Developed comprehensive Python analysis and visualization pipeline.
 
 **Used:** Fortran, HDF5, OpenMP, MPI, Git, Python: NumPy, Pandas, Matplotlib, SciPy
 
@@ -52,12 +52,13 @@ Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
 - Rueda-Becerril, J.M., Harrison, A.O., Giannios, D. (2021). "Blazar jets launched with similar energy per baryon, independently of their power". *Monthly Notices of the Royal Astronomical Society*, 501(3), 4092-4102. [DOI:10.1093/mnras/staa3925](https://doi.org/10.1093/mnras/staa3925)
 - Rueda-Becerril, J.M., Harrison, A.O., Giannios, D. (2021). "The blazar sequence revised". Astronomische Nachrichten, Volume 342, Issue 1-2, pp. 147-152. [DOI:10.1002/asna.202113895](https://doi.org/10.1002/asna.202113895)
 - Rueda-Becerril, J.M. (2021). "A numerical approach for radiative cooling in relativistic outflows". Astronomische Nachrichten, Volume 342, Issue 1-2, pp. 277-282. [DOI:10.1002/asna.202113919](https://doi.org/10.1002/asna.202113919)
-- Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2022). "Balancing turbulent heating with radiative cooling in blazars ". *Monthly Notices of the Royal Astronomical Society*, 513(4), 5766-5779. [DOI:10.1093/mnras/stac1282](https://doi.org/10.1093/mnras/stac1282)
+- Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2022). "Balancing turbulent heating with radiative cooling in blazars". *Monthly Notices of the Royal Astronomical Society*, 513(4), 5766-5779. [DOI:10.1093/mnras/stac1282](https://doi.org/10.1093/mnras/stac1282)
 - Combi, L., Siegel, D.M. (2023). "GRMHD Simulations of Mergers with Weak Interactions: r-process Nucleosynthesis and Electromagnetic Signatures of Dynamical Ejecta". *The Astrophysical Journal*, 944(1), 29. [DOI:10.3847/1538-4357/acac29](https://doi.org/10.3847/1538-4357/acac29)
 
 ---
 
-# [Portfolio](https://github.com/altjerue/Portfolio/tree/main)
+<details markdown="1">
+<summary><strong><a href="https://github.com/altjerue/Portfolio/tree/main">Portfolio</a></strong> — practice projects, course work, and reusable templates</summary>
 
 ## [Machine Learning From Scratch](https://github.com/altjerue/Portfolio/tree/main/AIML)
 
@@ -128,5 +129,7 @@ I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my to
 ## Gists
 
 I have a [collection of GitHubGists](https://gist.github.com/altjerue) that you can explore.
+
+</details>
 
 

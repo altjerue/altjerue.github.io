@@ -3,9 +3,19 @@ layout: default
 title: Home
 ---
 
+<nav class="page-toc" aria-label="On this page">
+<a href="#selected-skills">Skills</a>
+<a href="#resume">Resume</a>
+<a href="#education">Education</a>
+<a href="#professional-experience">Experience</a>
+<a href="#technical-skills">Technical Skills</a>
+<a href="#publications">Publications</a>
+<a href="#contact">Contact</a>
+</nav>
+
 # About Me
 
-I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and the environment.
+I am a computational scientist with a Ph.D. in Physics and 10+ years developing high-performance numerical algorithms and physics-based simulation software. My expertise spans multiscale/multiphysics modeling, scientific computing, and scientific machine learning, with a track record of publishing peer-reviewed research, obtaining competitive grants, and collaborating across interdisciplinary teams to solve complex computational problems in physics. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which continues to fuel my applied research in environmental and physical systems.
 
 ## Selected Skills
 
@@ -30,9 +40,9 @@ I am a data scientist passionate about solving complex problems at the intersect
 ## Professional Experience
 
 **Independent Contractor** - Mercor (Jan 2026 — Present)
-- Provide expert-level knowledge in Physics, Astrophysics, and Mathematics to improve models for top AI research labs
-- Assess model reasoning quality, identify failure modes, and provide structured feedback to improve scientific accuracy
-- Apply understanding of mathematical foundations to benchmark model performance on complex STEM problems
+- Provide expert-level knowledge in Physics, Astrophysics, and Mathematics to improve models for top AI research labs.
+- Assess model reasoning quality, identify failure modes, and provide structured feedback to improve scientific accuracy.
+- Apply understanding of mathematical foundations to benchmark model performance on complex STEM problems.
 
 **Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Jan 2026)
 - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
@@ -56,8 +66,15 @@ I am a data scientist passionate about solving complex problems at the intersect
 - Simulated supermassive black hole binaries, accretion disk dynamics, and jet formation using **Harm3D** and **PatchworkMHD**.
 
 **Postdoctoral Research Fellow** — Purdue University (Oct 2018 - Nov 2020)
+- Developed `Paramo`, an open-source Fortran 95/OpenMP code for radiative transfer simulations in relativistic astrophysics.
+- Served as Co-Investigator on two NASA Fermi Guest Investigator Program proposals (one awarded), advancing the understanding of physical constraints shared by the two main blazar types.
+- Built Python tools for numerical energy-loss and spectral-evolution calculations in gamma-ray burst afterglow modeling.
+- Collaborated with a multidisciplinary team to model the COVID-19 outbreak in Mexico and produced public science communication for Spanish-speaking audiences.
 
-**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo(Jan - Sep 2018)
+**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo (Jan - Sep 2018)
+- Built a Python pipeline to process 2D simulation images from the `GRTrans` code and generate training data for an SVM classifier predicting black hole spin from radio image morphology.
+- Developed an open-source Python tool for calculating radiative transfer phenomena (spectra and light curves) in relativistic astrophysics.
+- Organized a workshop training graduate students in the HDF5 data storage format.
 
 ## Technical Skills
 
@@ -67,13 +84,17 @@ I am a data scientist passionate about solving complex problems at the intersect
 
 ## Publications
 
-- [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-- [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M)
-- [Google Scholar](https://scholar.google.com/citations?user=hrld5zgAAAAJ)
+**Selected:**
+
+- Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2024). "Tleco: A Toolkit for Modeling Radiative Signatures from Relativistic Outflows". *The Astrophysical Journal*, 976(2), 182. [DOI:10.3847/1538-4357/ad8bc2](https://doi.org/10.3847/1538-4357/ad8bc2)
+- Rueda-Becerril, J.M., Harrison, A.O., Giannios, D. (2021). "Blazar jets launched with similar energy per baryon, independently of their power". *Monthly Notices of the Royal Astronomical Society*, 501(3), 4092-4102. [DOI:10.1093/mnras/staa3925](https://doi.org/10.1093/mnras/staa3925)
+- Rueda-Becerril, J.M., Mimica, P., Aloy, M.A. (2017). "On the influence of a hybrid thermal-non-thermal distribution in the internal shocks model for blazars". *Monthly Notices of the Royal Astronomical Society*, 468(2), 1169-1182. [DOI:10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476)
+
+Full list: [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) · [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M) · [Google Scholar](https://scholar.google.com/citations?user=hrld5zgAAAAJ)
 
 ## Personal Interests
 
-Beyond astrophysics, science, the environment, and computers, hiking and climbing mountains are my favorite place to be.
+Beyond astrophysics, science, the environment, and computers, I love hiking and climbing mountains.
 
 ## Languages
 
@@ -89,3 +110,5 @@ Beyond astrophysics, science, the environment, and computers, hiking and climbin
 - [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 - [GitHub](https://www.github.com/altjerue)
 - [ORCID](https://orcid.org/0000-0003-1988-1912)
+
+<p class="back-to-top"><a href="#">↑ Back to top</a></p>
