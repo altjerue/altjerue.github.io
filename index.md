@@ -74,9 +74,13 @@ I am a computational scientist with a Ph.D. in Physics and 10+ years developing 
 
 ## Publications
 
-- [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
-- [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M)
-- [Google Scholar](https://scholar.google.com/citations?user=hrld5zgAAAAJ)
+**Selected:**
+
+- Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2024). "Tleco: A Toolkit for Modeling Radiative Signatures from Relativistic Outflows". *The Astrophysical Journal*, 976(2), 182. [DOI:10.3847/1538-4357/ad8bc2](https://doi.org/10.3847/1538-4357/ad8bc2)
+- Rueda-Becerril, J.M., Harrison, A.O., Giannios, D. (2021). "Blazar jets launched with similar energy per baryon, independently of their power". *Monthly Notices of the Royal Astronomical Society*, 501(3), 4092-4102. [DOI:10.1093/mnras/staa3925](https://doi.org/10.1093/mnras/staa3925)
+- Rueda-Becerril, J.M., Mimica, P., Aloy, M.A. (2017). "On the influence of a hybrid thermal-non-thermal distribution in the internal shocks model for blazars". *Monthly Notices of the Royal Astronomical Society*, 468(2), 1169-1182. [DOI:10.1093/mnras/stx476](https://doi.org/10.1093/mnras/stx476)
+
+Full list: [ADS](https://ui.adsabs.harvard.edu/#search/q=author%3A%22Rueda-Becerril%2C%20J.%20M.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0) · [arXiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Rueda-Becerril%2C+J+M) · [Google Scholar](https://scholar.google.com/citations?user=hrld5zgAAAAJ)
 
 ## Personal Interests
 
