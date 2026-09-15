@@ -5,7 +5,7 @@ title: Home
 
 # About Me
 
-I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software developing, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which fuels my applied research at the intersection of physics, computation, and the environment.
+I am a data scientist passionate about solving complex problems at the intersection of physics, computation, and real-world data. My journey bridges astrophysics, software engineering, and geospatial data, applying remote sensing and geospatial analysis to better understand and help restore wetland systems. I specialize in high-performance computing, statistical modeling, and machine learning, with a cross-disciplinary approach to modeling complex systems: from extragalactic jets to wetland ecosystems. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which continues to fuel my applied research in environmental and physical systems.
 
 ## Selected Skills
 
@@ -30,9 +30,9 @@ I am a data scientist passionate about solving complex problems at the intersect
 ## Professional Experience
 
 **Independent Contractor** - Mercor (Jan 2026 — Present)
-- Provide expert-level knowledge in Physics, Astrophysics, and Mathematics to improve models for top AI research labs
-- Assess model reasoning quality, identify failure modes, and provide structured feedback to improve scientific accuracy
-- Apply understanding of mathematical foundations to benchmark model performance on complex STEM problems
+- Provide expert-level knowledge in Physics, Astrophysics, and Mathematics to improve models for top AI research labs.
+- Assess model reasoning quality, identify failure modes, and provide structured feedback to improve scientific accuracy.
+- Apply understanding of mathematical foundations to benchmark model performance on complex STEM problems.
 
 **Spatial Data Scientist** — Tealwaters, Seattle, WA, USA (May 2025 - Jan 2026)
 - Lead the development and refinement of tools like the Wetland Intrinsic Potential (WIP) model, integrating geomorphic and hydrologic indicators to map wetlands.
@@ -56,8 +56,15 @@ I am a data scientist passionate about solving complex problems at the intersect
 - Simulated supermassive black hole binaries, accretion disk dynamics, and jet formation using **Harm3D** and **PatchworkMHD**.
 
 **Postdoctoral Research Fellow** — Purdue University (Oct 2018 - Nov 2020)
+- Developed `Paramo`, an open-source Fortran 95/OpenMP code for radiative transfer simulations in relativistic astrophysics.
+- Served as Co-Investigator on two NASA Fermi Guest Investigator Program proposals (one awarded), advancing the understanding of physical constraints shared by the two main blazar types.
+- Built Python tools for numerical energy-loss and spectral-evolution calculations in gamma-ray burst afterglow modeling.
+- Collaborated with a multidisciplinary team to model the COVID-19 outbreak in Mexico and produced public science communication for Spanish-speaking audiences.
 
-**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo(Jan - Sep 2018)
+**Postdoctoral Research Fellow** — Universidad Michoacana de San Nicolás de Hidalgo (Jan - Sep 2018)
+- Built a Python pipeline to process 2D simulation images from the `GRTrans` code and generate training data for an SVM classifier predicting black hole spin from radio image morphology.
+- Developed an open-source Python tool for calculating radiative transfer phenomena (spectra and light curves) in relativistic astrophysics.
+- Organized a workshop training graduate students in the HDF5 data storage format.
 
 ## Technical Skills
 
@@ -73,7 +80,7 @@ I am a data scientist passionate about solving complex problems at the intersect
 
 ## Personal Interests
 
-Beyond astrophysics, science, the environment, and computers, hiking and climbing mountains are my favorite place to be.
+Beyond astrophysics, science, the environment, and computers, I love hiking and climbing mountains.
 
 ## Languages
 
