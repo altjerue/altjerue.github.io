@@ -57,7 +57,8 @@ Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
 
 ---
 
-# [Portfolio](https://github.com/altjerue/Portfolio/tree/main)
+<details markdown="1">
+<summary><strong><a href="https://github.com/altjerue/Portfolio/tree/main">Portfolio</a></strong> — practice projects, course work, and reusable templates</summary>
 
 ## [Machine Learning From Scratch](https://github.com/altjerue/Portfolio/tree/main/AIML)
 
@@ -128,5 +129,7 @@ I have a [GitHub repository](https://github.com/altjerue/Tonalpowalli) for my to
 ## Gists
 
 I have a [collection of GitHubGists](https://gist.github.com/altjerue) that you can explore.
+
+</details>
 
 

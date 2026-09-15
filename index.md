@@ -3,6 +3,16 @@ layout: default
 title: Home
 ---
 
+<nav class="page-toc" aria-label="On this page">
+<a href="#selected-skills">Skills</a>
+<a href="#resume">Resume</a>
+<a href="#education">Education</a>
+<a href="#professional-experience">Experience</a>
+<a href="#technical-skills">Technical Skills</a>
+<a href="#publications">Publications</a>
+<a href="#contact">Contact</a>
+</nav>
+
 # About Me
 
 I am a computational scientist with a Ph.D. in Physics and 10+ years developing high-performance numerical algorithms and physics-based simulation software. My expertise spans multiscale/multiphysics modeling, scientific computing, and scientific machine learning, with a track record of publishing peer-reviewed research, obtaining competitive grants, and collaborating across interdisciplinary teams to solve complex computational problems in physics. Growing up in the highlands of central Mexico, I developed a deep appreciation for natural landscapes, which continues to fuel my applied research in environmental and physical systems.
@@ -100,3 +110,5 @@ Beyond astrophysics, science, the environment, and computers, I love hiking and 
 - [ResearchGate](https://www.researchgate.net/profile/Jesus_Rueda-Becerril)
 - [GitHub](https://www.github.com/altjerue)
 - [ORCID](https://orcid.org/0000-0003-1988-1912)
+
+<p class="back-to-top"><a href="#">↑ Back to top</a></p>
