@@ -1,18 +1,15 @@
 source 'https://rubygems.org'
-gem 'github-pages'
-gem "jekyll-paginate"
-gem 'redcarpet'
-gem 'pygments.rb'
-gem 'jekyll-feed'
-gem 'open_uri_redirections'
-gem "minima"
 
-gem "rails", ">= 6.1.0"
-gem "jekyll", ">= 3.9", "< 5.0"
-gem "webrick", ">= 1.8.1"
+gem "jekyll", "~> 3.10"
+gem "jekyll-feed"
+gem "jekyll-paginate"
+gem "jekyll-seo-tag"
+gem "minima"
+gem "redcarpet"
+gem "jekyll-gist"
+gem "pygments.rb"
 gem "kramdown-parser-gfm"
-gem "thor", ">= 0.19.4", "< 2.0"
-gem "bigdecimal" # Add this line
-gem "nokogiri", ">= 1.18.3"
-gem "actionpack", ">= 7.0.8.7"
-gem "rubyzip", "~> 2.4.1"
+gem "webrick", ">= 1.8.1"
+gem "bigdecimal"
+gem "csv"
+gem "base64"
