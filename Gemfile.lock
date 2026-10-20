@@ -475,6 +475,7 @@ DEPENDENCIES
   pygments.rb
   rails (>= 6.1.0)
   redcarpet
+  rubyzip (~> 2.4.1)
   thor (>= 0.19.4, < 2.0)
   webrick (>= 1.8.1)
 
