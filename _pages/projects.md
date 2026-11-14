@@ -8,16 +8,16 @@ title: Projects
 
 ## [Blazars Population ML](http://github.com/altjerue/ilwikak-ml) | Jan 2026 -- Present
 
-- Applying classical ML and Bayesian inference to the [Fermi-LAT 4LAC-DR3](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermilac.html) catalog (3,407 sources) to recover physical jet parameters from multi-wavelength observational data.
-- Building a neural network to learn the mapping from physical jet parameters to observable SEDs accurately enough to compare with Tleco results.
-- Developing a forecasting model for blazar gamma-ray flares using a general-purpose time series foundation model, fine-tuned with Tleco-generated synthetic light curves.
+- Applying classical ML and Gaussian process regression to the [Fermi-LAT 4LAC-DR3](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermilac.html) catalog (3,407 sources) to recover physical jet parameters from multi-wavelength data.
+- Building a neural-network emulator of the physics-based Tleco model that maps physical jet parameters to observable spectral energy distributions, to be validated against Tleco output (in progress).
+- Forecasting blazar gamma-ray flares with a time-series foundation model fine-tuned on Tleco-generated synthetic light curves (in progress).
 
 **Used:** Git, Python: Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, PyTorch, Pytest, Jupyter
 
 ## WindsOfChange | Aug 2024 -- Present
 {: #windsofchange}
 
-- Open source R & C++ package for dispersion of spores in hilly terrains.
+- C++/R library, developed with the UW Forest Mycobiome Lab, that simulates wind-driven spore dispersal over forested, hilly terrain.
 - Implemented Lagrangian particle dispersion, atmospheric turbulence, and fluid flow over complex hilly terrain with forest canopy, based on analytical models.
 - Parallelized particle tracking using RcppParallel and OpenMP. Designed for scalability to tens of thousands of particles across kilometer-scale domains.
 
@@ -27,8 +27,8 @@ title: Projects
 {: #tleco}
 
 - `Tleco` stands for both *in the fire* and *rise* in the Nahuatl language.
-- Open Source Code for Simulation of Relativistic Particles Radiation
-- Numerical code that simulates particles in relativistic plasma, and the rise of radiation from accelerating particles.
+- Open-source code for simulation of relativistic particle radiation.
+- Co-developed a Rust/Python toolkit that solves the Fokker–Planck equation coupled to radiative transfer to model radiation from relativistic outflows.
 - Consists of both Rust functions and Python functions previously built in the Fortran code `Paramo`.
 
 **Used:** Rust, HDF5, Git, Python: Numpy, Matplotlib, Scipy
@@ -38,13 +38,14 @@ title: Projects
 - Davis, Z., Rueda-Becerril, J.M., Giannios, D. (2024). "Tleco: A Toolkit for Modeling Radiative Signatures from Relativistic Outflows". *The Astrophysical Journal*, 976(2), 182, 12. [DOI:10.3847/1538-4357/ad8bc2](https://doi.org/10.3847/1538-4357/ad8bc2) 
 
 ## [Paramo](https://github.com/altjerue/paramo)  | Oct 2018 -- Apr 2022
+{: #paramo}
 
 Open Source Code for Radiative Transfer Simulations in Relativistic Astrophysics
 
 - Independently developed production-grade HPC code for Monte Carlo radiative transfer simulations.
 - Optimized through systematic profiling, algorithmic improvements, and memory efficiency enhancements.
 - Applied gradient descent optimization to fit simulation parameters to NASA telescope observations.
-- Used by 3+ graduate students; resulted in 5+ peer-reviewed publications.
+- Adopted by other groups (e.g., Combi & Siegel 2023); mentored 3 graduate students and published peer-reviewed papers using it.
 - Developed comprehensive Python analysis and visualization pipeline.
 
 **Used:** Fortran, HDF5, OpenMP, MPI, Git, Python: NumPy, Pandas, Matplotlib, SciPy
