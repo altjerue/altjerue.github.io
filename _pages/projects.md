@@ -8,18 +8,18 @@ title: Projects
 
 ## [Blazars Population ML](http://github.com/altjerue/ilwikak-ml) | Jan 2026 -- Present
 
-- Applying classical ML and Gaussian process regression to the [Fermi-LAT 4LAC-DR3](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermilac.html) catalog (3,407 sources) to recover physical jet parameters from multi-wavelength data.
-- Building a neural-network emulator of the physics-based Tleco model that maps physical jet parameters to observable spectral energy distributions, to be validated against Tleco output (in progress).
-- Forecasting blazar gamma-ray flares with a time-series foundation model fine-tuned on Tleco-generated synthetic light curves (in progress).
+- Applying classical ML and Gaussian process regression to the [Fermi-LAT 4LAC-DR3](https://heasarc.gsfc.nasa.gov/W3Browse/fermi/fermilac.html) catalog (3,407 sources) to recover physical jet parameters from multi-wavelength data (WIP).
+- Building a neural-network emulator of the physics-based Tleco model that maps physical jet parameters to observable spectral energy distributions, to be validated against Tleco output (WIP).
+- Forecasting blazar gamma-ray flares with a time-series foundation model fine-tuned on Tleco-generated synthetic light curves (WIP).
 
 **Used:** Git, Python: Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, PyTorch, Pytest, Jupyter
 
 ## WindsOfChange | Aug 2024 -- Present
 {: #windsofchange}
 
-- C++/R library, developed with the UW Forest Mycobiome Lab, that simulates wind-driven spore dispersal over forested, hilly terrain.
-- Implemented Lagrangian particle dispersion, atmospheric turbulence, and fluid flow over complex hilly terrain with forest canopy, based on analytical models.
-- Parallelized particle tracking using RcppParallel and OpenMP. Designed for scalability to tens of thousands of particles across kilometer-scale domains.
+- Translated an existing MATLAB code to R and C++, producing a library for Lagrangian particle dispersion over hilly terrain with forest canopy, driven by prescribed wind fields, based on analytical models (Massman & Weil 1999; Finnigan & Belcher 2004)
+- Parallelized particle tracking using RcppParallel and OpenMP. Designed for scalability to tens of thousands of particles across kilometer-scale domains. Checked with unit-test suite.
+- Developed in collaboration with UW with the UW Forest Mycobiome Lab. Manuscript in preparation.
 
 **Used:** C++, OpenMP, Git, R: RStudio, Rcpp, ggplot2, dplyr, tidyr, RcppParallel
 
