@@ -27,9 +27,8 @@ I am a computational scientist with a Ph.D. in Physics and 10+ years developing 
 
 ## Resume
 
-- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/RuedaBecerrilJM-resume.pdf)
-- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/RuedaBecerrilJM-CV.pdf)
-<!-- - [CV completo (es)](https://github.com/altjerue/jmrb_cv/raw/master/RuedaBecerrilJM-CVes.pdf) -->
+- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/resume-RuedaBecerrilJM.pdf)
+- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/cv-RuedaBecerrilJM.pdf)
 
 ## Education
 
@@ -50,10 +49,10 @@ I am a computational scientist with a Ph.D. in Physics and 10+ years developing 
 - Bridge astrophysics and environmental science by leveraging expertise in high-performance computing, statistical modeling, and machine learning to analyze complex environmental datasets.
 
 **Open-Source Developer** — Independent Research (Jan 2024 - May 2025)
-- [`Tleco`](https://altjerue.github.io/projects#tleco)
+- [`Tleco`](/projects/#tleco)
   - Simulates relativistic plasma particles and radiation rise from accelerating particles.
   - Combines Rust and Python functions from the Fortran code `Paramo`.
-- [`WindsOfChange`](https://altjerue.github.io/projects/#windsofchange)
+- [`WindsOfChange`](/projects/#windsofchange)
   - Simulate spore dispersion in hilly terrains using R and C++.
 
 **Software Engineer** — Paychex (Apr 2022 - Jan 2024)
@@ -80,7 +79,7 @@ I am a computational scientist with a Ph.D. in Physics and 10+ years developing 
 
 - **Programming Languages:** Python, C/C++, R, Fortran, Shell, Julia, SQL, Rust, Java
 - **Python Ecosystem:** Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, Tensorflow, PyTorch, Pytest, Jupyter
-- **Miscellaneous:** Git (GitHub, Bitbucket), $\LaTeX$, QGIS, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, MongoDB, Visit, Paraview, Job Scheduling (SLURM, PBS)
+- **Miscellaneous:** Git (GitHub, Bitbucket), LaTeX, QGIS, MPI, OpenMP, OpenACC, HDF5, Mathematica, Maple, Docker, Jenkins, Splunk, Jira, Kafka, MongoDB, Visit, Paraview, Job Scheduling (SLURM, PBS)
 
 ## Publications
 
