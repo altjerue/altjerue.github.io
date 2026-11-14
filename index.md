@@ -27,8 +27,8 @@ I am a computational scientist with a Ph.D. in Physics and 10+ years developing 
 
 ## Resume
 
-- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/resume-RuedaBecerrilJM.pdf)
-- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/cv-RuedaBecerrilJM.pdf)
+- [Resume (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/resume-RuedaBecerrilJM.pdf?raw=true)
+- [Full CV (PDF)](https://github.com/altjerue/jmrb_cv/blob/master/cv-RuedaBecerrilJM.pdf?raw=true)
 
 ## Education
 
