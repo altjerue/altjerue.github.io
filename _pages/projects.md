@@ -14,7 +14,8 @@ title: Projects
 
 **Used:** Git, Python: Numpy, Pandas, Matplotlib, Scipy, Astropy, Scikit-learn, PyTorch, Pytest, Jupyter
 
-## [Wind and Spores](https://github.com/UW-ForestMycobiomeLab/WindSporesHills)  | Aug 2024 -- Present
+## WindsOfChange | Aug 2024 -- Present
+{: #windsofchange}
 
 - Open source R & C++ package for dispersion of spores in hilly terrains.
 - Implemented Lagrangian particle dispersion, atmospheric turbulence, and fluid flow over complex hilly terrain with forest canopy, based on analytical models.
@@ -23,6 +24,7 @@ title: Projects
 **Used:** C++, OpenMP, Git, R: RStudio, Rcpp, ggplot2, dplyr, tidyr, RcppParallel
 
 ## [Tleco](https://github.com/zkdavis/Tleco)  | Jan 2024 -- Sep 2024
+{: #tleco}
 
 - `Tleco` stands for both *in the fire* and *rise* in the Nahuatl language.
 - Open Source Code for Simulation of Relativistic Particles Radiation
